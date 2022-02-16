@@ -43,7 +43,6 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #+END_QUOTE
-* Today I learned the sysrq key on my keyboard did a thing!!
-/Added :Wed Feb 16 18:52:40 2022/
+* Today I learned the sysrq key on my keyboard did a thing!! /16|02|2022/
 I was really surprised when i found out that using *ALT+SYSRQ(the print key)+ r k* , will kill all programs EXCEPT the init on the current console.
 Or *ALT+SYSRQ+r e i s u o(or b for reboot)* to shutdown your pc, really cool
