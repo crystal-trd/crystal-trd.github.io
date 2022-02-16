@@ -1,6 +1,7 @@
 #+TITLE: Crystal Website
 #+AUTHOR: Crystalarch
 #+OPTIONS: ^:{}
+#+OPTIONS: num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/style.css">
 * Small introduction !!!!
 ** Welcome OwO !!!!
