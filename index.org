@@ -3,6 +3,7 @@
 #+OPTIONS: ^:{}
 #+OPTIONS: num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/style.css">
+
 * Small introduction !!!!
 ** Welcome OwO !!!!
 Welcome everyone to my personal website UwU, it's pretty simple and minimalist so forgive me pwease if it breaks your eyes.
@@ -12,11 +13,36 @@ My name is Crystal , I'm 16 years old ( my bday is in the 9th of december :D ) a
 *** Games i mostly play
 I play mostly Portal , Half life, platypus (damn i love this game) , just shapes and beats, minecraft , and i love trying new ones (preferably indi ones , EA can go eat my fluffy bankrupt butt)
 ** Ok but what is this website ?
-Good question , this website made entirely in org mode (doom emacs gang) and my simple css config file  is mainly a rant website , a personal diary, some blog posts about things i discover , and my opinions and projects i work in . So expect to not fully agree with my POV ,and it's fine, cuz we love you because of our differences !! :3
+Good question , this website made entirely in org mode (doom emacs gang) and my simple css config file  is mainly a rant website , a personal diary, some blog posts about things i discover , and my opinions and projects i work in . So expect to not fully agree with my POV ,and it's fine, cuz we love you because of our differences !! :3 Also this website is under the MIT license
 
 ** Great how can i contact you though ?
 If you wanna drive by and say hello, feel free to DM me on discord Crystarn#7407 !! Oh also don't forget to check my github profile here : https://github.com/Archenagechan
+** License( TL;DR: you are free to reuse any part of my code idgaf im just trying doom emacs thingies )
+#+BEGIN_QUOTE
+The MIT License (MIT)
 
+Copyright (c) 2022 Crystal
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+#+END_QUOTE
 * Today I learned the sysrq key on my keyboard did a thing!!
 /Added :Wed Feb 16 18:52:40 2022/
 I was really surprised when i found out that using *ALT+SYSRQ(the print key)+ r k* , will kill all programs EXCEPT the init on the current console.
