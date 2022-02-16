@@ -1,0 +1,26 @@
+html {
+src: url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff/JetBrainsMono-Regular.woff') format('woff');
+    font-family: 'JetBrains Mono';
+    font-weight: 700;
+    font-size: small;
+    background-color: #161320;
+}
+h1 {
+    color: #6E6C7E;
+}
+h2 {
+    color:#F28FAD;
+}
+p {
+    color:#DDB6F2;
+}
+a {
+    color:#89DCEB;
+}
+li {
+    color:#C9CBFF;
+}
+h3 {
+    color:#E8A2AF;
+}
