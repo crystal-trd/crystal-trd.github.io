@@ -1,7 +1,7 @@
 #+TITLE: Crystal Website
 #+AUTHOR: Crystalarch
 #+OPTIONS: ^:{}
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/home/crystal/Documents/Notes/style.css">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/style.css">
 * Small introduction !!!!
 ** Welcome OwO !!!!
 Welcome everyone to my personal website UwU, it's pretty simple and minimalist so forgive me pwease if it breaks your eyes.
