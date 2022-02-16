@@ -16,6 +16,7 @@ Good question , this website made entirely in org mode (doom emacs gang) and my 
 
 ** Great how can i contact you though ?
 If you wanna drive by and say hello, feel free to DM me on discord Crystarn#7407 !! Oh also don't forget to check my github profile here : https://github.com/Archenagechan
-* Today I learned the sysrq key on my keyboard did a thing!!
+
+* Today I learned the sysrq key on my keyboard did a thing!! /Wed Feb 16 18:52:40 2022/
 I was really surprised when i found out that using *ALT+SYSRQ(the print key)+ r k* , will kill all programs EXCEPT the init on the current console.
 Or *ALT+SYSRQ+r e i s u o(or b for reboot)* to shutdown your pc, really cool
