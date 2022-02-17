@@ -41,6 +41,8 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #+END_QUOTE
+* HP , the keyboard, and what the fuck happened /17/02/2022/
+I fucking hate this , my keyboard randomly stopped reading input from some keys , which are : aqwedcrfvtgb1345 . Well guess i will have to buy a new keyboard for my HP ELITEBOOK 840 G2 (yeah pretty old laptop) , it might not be that bad, since i lost the trackpoint ,and it will be a great opportunity to replace it.
 * Today I learned the sysrq key on my keyboard did a thing!! /16|02|2022/
 I was really surprised when i found out that using *ALT+SYSRQ(the print key)+ r k* , will kill all programs EXCEPT the init on the current console.
 Or *ALT+SYSRQ+r e i s u o(or b for reboot)* to shutdown your pc, really cool
