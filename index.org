@@ -1,4 +1,4 @@
-#+TITLE: Crystal Website
+#+TITLE: Crystal Website 💖
 #+AUTHOR: Crystalarch
 #+OPTIONS: ^:{}
 #+OPTIONS: num:nil
