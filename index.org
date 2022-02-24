@@ -40,9 +40,11 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #+END_QUOTE
-* Quick Patch Note /18/02/2022/
+* I fucking hate Xiaomi and Mediatek /24|02|2022/
+So yesterday , the worse thing that could happen to me , happened . While i was trying to install a custom rom on my phone (Redmi 9A) which got recommended to me by an indian guy saying "oh yeah oh yeah it works on Redmi 9A" well guess what .__. it doesn't , now my phone is bootlooping, and i have 0 internet to download the ROM (4gb of size 😭) hell , i don't even know when this website will get commited , but one thing for sure:  Fuck Mediatek , and fuck me for believing random indians on youtube .__.
+* Quick Patch Note /18|02|2022/
 It appeared that the website fonts didn't load for people without JetBrains Mono font installed and so the website looked broken-ish ! Thank you Marie for letting me know <3 , Now everything should be fixed...i hope , otherwise just install that font ,pretty cool one i might add :D !
-* HP , the keyboard, and what the fuck happened /17/02/2022/
+* HP , the keyboard, and what the fuck happened /17|02|2022/
 I fucking hate this , my keyboard randomly stopped reading input from some keys , which are : aqwedcrfvtgb1345 . Well guess i will have to buy a new keyboard for my HP ELITEBOOK 840 G2 (yeah pretty old laptop) , it might not be that bad, since i lost the trackpoint ,and it will be a great opportunity to replace it.
 * Today I learned the sysrq key on my keyboard did a thing!! /16|02|2022/
 I was really surprised when i found out that using *ALT+SYSRQ(the print key)+ r k* , will kill all programs EXCEPT the init on the current console.
