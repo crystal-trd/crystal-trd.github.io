@@ -40,6 +40,10 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #+END_QUOTE
+* First impression with an android 12 rom (phone) /09|03|2022/
+First of all ,sorry for being absent, life is kinda keeping me busy. ANYWAYS happy womens day to start with !! Sooo Android 12 , after fixing my Redmi 9A, i went for the first time with a custom rom "Nusantara ROM" which uses the Android 12 version . And my first impression is: WAW. A12 is indeed a step up from Miui Android 10 . Everything goes well with eachother, a lot of privacy settings, hell i didnt even have to debloat my phone cuz it didnt have bloatware. The theming engine really reminds me of pywal on linux, but on steroides .
+
+One small problem i had was the fact the file manager doesnt let you choose the root of your sd card as a location for some apps, other than that, 10/10 would recommend
 * I fucking hate Xiaomi and Mediatek /24|02|2022/
 So yesterday , the worse thing that could happen to me , happened . While i was trying to install a custom rom on my phone (Redmi 9A) which got recommended to me by an indian guy saying "oh yeah oh yeah it works on Redmi 9A" well guess what .__. it doesn't , now my phone is bootlooping, and i have 0 internet to download the ROM (4gb of size 😭) hell , i don't even know when this website will get commited , but one thing for sure:  Fuck Mediatek , and fuck me for believing random indians on youtube .__.
 * Quick Patch Note /18|02|2022/
