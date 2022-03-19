@@ -40,6 +40,9 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #+END_QUOTE
+* Earthquake /19|03|2022/
+As the title says, today an earthquake stroke the coast of Bejaia , named Cap Carbon , with a magnitude of 6.0 . And surprisingly no bouncing quakes....weird , what is weirder is that, last year , and exactly this day (well the day before, but still) a similar..no , identical quake stroke in the Same spot with the same magnitude, only difference is that the first was at night, and today was at 11AM.
+Im safe, everyone is safe and no cracks in buildings appart from the University Campus appeared.
 * First impression with an android 12 rom (phone) /09|03|2022/
 First of all ,sorry for being absent, life is kinda keeping me busy. ANYWAYS happy womens day to start with !! Sooo Android 12 , after fixing my Redmi 9A, i went for the first time with a custom rom "Nusantara ROM" which uses the Android 12 version . And my first impression is: WAW. A12 is indeed a step up from Miui Android 10 . Everything goes well with eachother, a lot of privacy settings, hell i didnt even have to debloat my phone cuz it didnt have bloatware. The theming engine really reminds me of pywal on linux, but on steroides .
 
