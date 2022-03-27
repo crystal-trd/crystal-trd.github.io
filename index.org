@@ -13,7 +13,7 @@ My name is Crystal , I'm 16 years old ( my bday is in the 9th of december :D ) a
 Good question , this website made entirely in org mode (doom emacs gang) and my simple css config file  is mainly a rant website , a personal diary, some blog posts about things i discover , and my opinions and projects i work in . So expect to not fully agree with my POV ,and it's fine, cuz we love you because of our differences !! :3 Also this website is under the MIT license amazing amirit ?
 
 ** Great how can i contact you though ?
-If you wanna drive by and say hello, feel free to DM me on discord Crystarn#7407 !! Oh also don't forget to check my github profile here : https://github.com/Archenagechan
+If you wanna drive by and say hello, feel free to DM me on discord Crystal on meth#7407 !! Oh also don't forget to check my github profile here : https://github.com/Archenagechan
 ** License( TL;DR: you are free to reuse any part of my code idgaf im just trying doom emacs thingies )
 #+BEGIN_QUOTE
 The MIT License (MIT)
@@ -40,6 +40,8 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #+END_QUOTE
+* End of Exams, DWM scripts update and life updates (and more :D) /27|03|2022/
+So it has been over a week since i wrote to this website that no one reads anyways . But i finally finished my exams🎉 whouhouuuu only one year for the bacalorea exam .  I mostly did well , fucked up in maths, but hey , better than nothing :D. Also while i was not present, i took my time to revamp my dwm build (which needs a couple of pushes to my repo) and enhanced my theme picker to make it a bit nicer, with a random option and a notification ..Who doesn't love some randomness in their life. As for life , well... Im finally on a date with someone IRL, a cute guy named Luke , it means the world to me to have him with me so i wanted to share my joy with this org document. Anyways thats all , have a nice day , night or launch , see y'all
 * Earthquake /19|03|2022/
 As the title says, today an earthquake stroke the coast of Bejaia , named Cap Carbon , with a magnitude of 6.0 . And surprisingly no bouncing quakes....weird , what is weirder is that, last year , and exactly this day (well the day before, but still) a similar..no , identical quake stroke in the Same spot with the same magnitude, only difference is that the first was at night, and today was at 11AM.
 Im safe, everyone is safe and no cracks in buildings appart from the University Campus appeared.
