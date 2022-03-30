@@ -40,6 +40,8 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #+END_QUOTE
+* Small shout-out to some lovely n sweet people
+Directly from the oven of the CTF Team Named *FlagPoisoning* comes the tool named Discord-CTFD-Parser which is a "CTF-D parser who create automatically multiple discord threads by scraping ctfd plateform, collecting name, category, description and points of challenges." [[https://twitter.com/FlagPoisoning][Check out their twitter account]] or [[https://github.com/FlagPoisoning/Discord-CTFD-Parser][Their github repo]]
 * End of Exams, DWM scripts update and life updates (and more :D) /27|03|2022/
 So it has been over a week since i wrote to this website that no one reads anyways . But i finally finished my exams🎉 whouhouuuu only one year for the bacalorea exam .  I mostly did well , fucked up in maths, but hey , better than nothing :D. Also while i was not present, i took my time to revamp my dwm build (which needs a couple of pushes to my repo) and enhanced my theme picker to make it a bit nicer, with a random option and a notification ..Who doesn't love some randomness in their life. As for life , well... Im finally on a date with someone IRL, a cute guy named Luke , it means the world to me to have him with me so i wanted to share my joy with this org document. Anyways thats all , have a nice day , night or launch , see y'all
 * Earthquake /19|03|2022/
