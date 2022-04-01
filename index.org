@@ -10,36 +10,12 @@ Welcome everyone to my personal website UwU, it's pretty simple and minimalist s
 ** Who the fuck am I ?
 My name is Crystal , I'm 16 years old ( my bday is in the 9th of december :D ) and i'm from Algeria, I speak 4 languages (French English Arabic and Tamazight) . Linux and foss enthusiast , one of my dreams is living abroad and joining the FSFondation and work in IT !!!
 ** Ok but what is this website ?
-Good question , this website made entirely in org mode (doom emacs gang) and my simple css config file  is mainly a rant website , a personal diary, some blog posts about things i discover , and my opinions and projects i work in . So expect to not fully agree with my POV ,and it's fine, cuz we love you because of our differences !! :3 Also this website is under the MIT license amazing amirit ?
+Good question , this website made entirely in org mode (doom emacs gang) and my simple css config file  is mainly a rant website , a personal diary, some blog posts about things i discover , and my opinions and projects i work in . So expect to not fully agree with my POV ,and it's fine, cuz we love you because of our differences !! :3 Also this website is under the CC0 1.0 license amazing amirit ?
 
 ** Great how can i contact you though ?
 If you wanna drive by and say hello, feel free to DM me on discord Crystal on meth#7407 !! Oh also don't forget to check my github profile here : https://github.com/Archenagechan
 ** License( TL;DR: you are free to reuse any part of my code idgaf im just trying doom emacs thingies )
-#+BEGIN_QUOTE
-The MIT License (MIT)
-
-Copyright (c) 2022 Crystal
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-#+END_QUOTE
+This website is under an CC0 1.0 license, which means: do as you want, fork it, duplicate it, translate it , anything, without the fear of any legal issues. My code is your code, and my website is everyones
 * Small shout-out to some lovely n sweet people
 Directly from the oven of the CTF Team Named *FlagPoisoning* comes the tool named Discord-CTFD-Parser which is a "CTF-D parser who create automatically multiple discord threads by scraping ctfd plateform, collecting name, category, description and points of challenges." [[https://twitter.com/FlagPoisoning][Check out their twitter account]] or [[https://github.com/FlagPoisoning/Discord-CTFD-Parser][Their github repo]]
 * End of Exams, DWM scripts update and life updates (and more :D) /27|03|2022/
