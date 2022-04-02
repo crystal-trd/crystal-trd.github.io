@@ -18,7 +18,10 @@ If you wanna drive by and say hello, feel free to DM me on discord Crystal on me
 This website is under an CC0 1.0 license, which means: do as you want, fork it, duplicate it, translate it , anything, without the fear of any legal issues. My code is your code, and my website is everyones
 * Kirby Return to DreamLand /02|04|2022/
 Hewwo everyone !!!! Yesterday i played a game that is just , pure wholesomeness on an iso file..Kirby return to do dreamland. Take a look at this
-./unknown.png (is this just an excuse to try out images on emacs ? nooo absolutly not)
+
+[[./unknown.png]]
+
+(is this just an excuse to try out images on emacs ? nooo absolutly not)
 * Small shout-out to some lovely n sweet people
 Directly from the oven of the CTF Team Named *FlagPoisoning* comes the tool named Discord-CTFD-Parser which is a "CTF-D parser who create automatically multiple discord threads by scraping ctfd plateform, collecting name, category, description and points of challenges." [[https://twitter.com/FlagPoisoning][Check out their twitter account]] or [[https://github.com/FlagPoisoning/Discord-CTFD-Parser][Their github repo]]
 * End of Exams, DWM scripts update and life updates (and more :D) /27|03|2022/
