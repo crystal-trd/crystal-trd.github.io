@@ -2,6 +2,7 @@
 #+AUTHOR: Crystalarch
 #+OPTIONS: ^:{}
 #+OPTIONS: num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/colors.css">
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/style.css">
 #+HTML_HEAD: <link rel="icon" type="image/x-icon" href="/favicon.png">
 * Small introduction !!!!
