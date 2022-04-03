@@ -1,3 +1,6 @@
+@import url("colors.css");
+
+
 @font-face {
   font-family: 'JetBrains Mono Bold Italic';
   src: url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff2/JetBrainsMono-Bold-Italic.woff2') format('woff2'),
@@ -75,35 +78,35 @@ html {
     background-color: #161320;
 }
 h1 {
-    color: #6E6C7E;
+    color: --color1;
 }
 h2 {
-    color:#F28FAD;
+    color:--color10;
 }
 p {
-    color:#DDB6F2;
+    color:--color1;
 }
 a {
-    color:#89DCEB;
+    color:--color12;
 }
 li {
-    color:#C9CBFF;
+    color:--color8;
 }
 h3 {
-    color:#E8A2AF;
+    color:--color6;
 }
 h4 {
-	color:#89DCEB;
+	color:--color7;
 }
 b {
-    color:#F8BD96;
+    color:--color14;
 }
 div.outline-2 {
     border-radius: 25px;
-    border: 4px solid #575268;
+    border: 4px solid --color5;
     padding: 10px;
     margin: 10px;
-    background-color: #1A1826;
+    background-color: --color0;
 }
 img {
   max-width: 100%;
