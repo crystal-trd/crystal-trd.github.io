@@ -16,6 +16,9 @@ Good question , this website made entirely in org mode (doom emacs gang) and my 
 If you wanna drive by and say hello, feel free to DM me on discord Crystal on meth#7407 !! Oh also don't forget to check my github profile here : https://github.com/Archenagechan
 ** License( TL;DR: you are free to reuse any part of my code idgaf im just trying doom emacs thingies )
 This website is under an CC0 1.0 license, which means: do as you want, fork it, duplicate it, translate it , anything, without the fear of any legal issues. My code is your code, and my website is everyones
+
+* BIG UPDATE /03/|04|2022/
+Today this website got a *B I G* upgrade in terms of style, now instead of having a static theme that never changes, this website colors change according to the colors of my setup..which are applied randomly from a number of wallpapers and extract colors from them, how awesome , right ? :D all this in pure css with bash magic and pywal (man i love this software)
 * Kirby Return to DreamLand /02|04|2022/
 Hewwo everyone !!!! Yesterday i played a game that is just , pure wholesomeness on an iso file..Kirby return to do dreamland. Take a look at this
 
