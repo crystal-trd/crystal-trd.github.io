@@ -31,7 +31,8 @@ as the name is changed.
  0. You just DO WHAT THE FUCK YOU WANT TO.
 
   [[./kopimi_pride.png]]
-
+* Orchid Linux /06|04|2022/
+Guess who contributed to yet an other Linux distro ? Its ya girl Archenage . So the distro i helped translate to English is a special one named after a lovely flower "Orchid Linux" which is a French Gentoo distro , made to be easy to install and to use  [[https://github.com/wamuu-sudo/orchid][You can check it out here]] . Lovely distro , lovely people , 10/10 would recommend :3
 * BIG UPDATE /03/|04|2022/
 Today this website
 got a *B I G* upgrade in terms of style, now instead of having a static theme that never changes, this website colors change according to the colors of my setup..which are applied randomly from a number of wallpapers and extract colors from them, how awesome , right ? :D all this in pure css with bash magic and pywal (man i love this software)
