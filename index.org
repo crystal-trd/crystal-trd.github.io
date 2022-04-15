@@ -41,7 +41,7 @@ got a *B I G* upgrade in terms of style, now instead of having a static theme th
 * Kirby Return to DreamLand /02|04|2022/
 Hewwo everyone !!!! Yesterday i played a game that is just , pure wholesomeness on an iso file..Kirby return to do dreamland. Take a look at this
 
-[[./unknown.png]]
+[[./unknown.jpg]]
 
 (is this just an excuse to try out images on emacs ? nooo absolutly not)
 * Small shout-out to some lovely n sweet people
