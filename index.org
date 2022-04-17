@@ -16,7 +16,7 @@ My name is Crystal , I'm 16 years old ( my bday is in the 9th of december :D ) a
 Good question , this website made entirely in org mode (doom emacs gang) and my simple css config file  is mainly a rant website , a personal diary, some blog posts about things i discover , and my opinions and projects i work in . So expect to not fully agree with my POV ,and it's fine, cuz we love you because of our differences !! :3 Also this website is under the WTFPL license amazing amirit ?
 
 ** Great how can i contact you though ?
-If you wanna drive by and say hello, feel free to DM me on discord Crystal on meth#7407 !! Oh also don't forget to check my github profile here : https://github.com/crystal-td
+If you wanna drive by and say hello, feel free to DM me on discord *Crystal Methamphetamine(she/her)#7407*!! Oh also don't forget to check my github profile here : https://github.com/crystal-td
 ** License( TL;DR: you are free to reuse any part of my code idgaf im just trying doom emacs thingies )
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                    Version 2, December 2004
