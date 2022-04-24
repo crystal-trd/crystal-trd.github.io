@@ -4,25 +4,25 @@
     --wallpaper: url("/home/crystal/Wallpapers/ANIME_window-samurai.jpg");
 
     /* Special */
-    --background: #010001;
-    --foreground: #f0e8e0;
-    --cursor: #f0e8e0;
+    --background: #fefbf8;
+    --foreground: #010001;
+    --cursor: #010001;
 
     /* Colors */
-    --color0: #010001;
+    --color0: #fefbf8;
     --color1: #F3254A;
     --color2: #9B6C6D;
     --color3: #AD7F7F;
     --color4: #8B847B;
     --color5: #A69E94;
     --color6: #D4BEB2;
-    --color7: #f0e8e0;
-    --color8: #a8a29c;
+    --color7: #010001;
+    --color8: #958a7f;
     --color9: #F3254A;
     --color10: #9B6C6D;
     --color11: #AD7F7F;
     --color12: #8B847B;
     --color13: #A69E94;
     --color14: #D4BEB2;
-    --color15: #f0e8e0;
+    --color15: #010001;
 }
