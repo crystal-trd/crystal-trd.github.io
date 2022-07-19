@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css2?family=Source+Code+Pro);
 
 :root {
-  --color-bg: #1b1514;
-  --color-bg-light: #8E3644;
-  --color-fg: #AF3648;
+  --color-bg: #090103;
+  --color-bg-light: #AD8F9F;
+  --color-fg: #DE9CA8;
 
   --color-link-hover: #8fbcbb;
   --color-link: #81a1c1;
@@ -44,7 +44,7 @@ header div#img {
 }
 
 header div#img img {
-  width: 25vw;
+  width: 15vw;
 }
 
 main {
