@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css2?family=Source+Code+Pro);
 
 :root {
-  --color-bg: #0E0B0E;
-  --color-bg-light: #6D442B;
-  --color-fg: #483E44;
+  --color-bg: #0E0D10;
+  --color-bg-light: #6F6060;
+  --color-fg: #8C6E69;
 
   --color-link-hover: #8fbcbb;
   --color-link: #81a1c1;
