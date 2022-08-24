@@ -33,7 +33,11 @@ as the name is changed.
 
 * Links :
 Orchid Linux's github page : https://github.com/orchid-linux/orchid/
+
 Orchid Linux's website : https://orchid-linux.org/
+
 Be paranoid (hanna's website, highly recommend if you care about privacy) : https://beparanoid.de
+
 SearxNG : https://docs.searxng.org/
+
 Online Spyware Watchdog : https://spyware.neocities.org/
