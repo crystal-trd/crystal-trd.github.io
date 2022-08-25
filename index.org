@@ -10,7 +10,7 @@
 * Welcome OwO !!!!
 Welcome everyone to my personal website UwU, it's pretty simple and minimalist so forgive me pwease if it breaks your eyes.
 * Who the fuck am I ?
-My name is Crystal, I'm 16 years old (my bday is in the 9th of december :D) and I'm from Algeria, I speak 4 languages (French English Arabic and Tamazight). Linux and foss enthusiast, one of my dreams is living abroad and work in IT/AI !!!
+My name is Crystal, I'm 17 years old (my bday is in the 9th of december :D) and I'm from Algeria, I speak 4 languages (French English Arabic and Tamazight). Linux and foss enthusiast, one of my dreams is living abroad and work in IT/AI !!!
 * Ok, but what is this website ?
 Good question, this website made entirely in org mode (doom emacs gang) and my simple CSS config and serves as a "starting point" to people that want to get to know me, or something, idk really haha !! :3 This website is under the WTFPL license amazing amirit ?
 
