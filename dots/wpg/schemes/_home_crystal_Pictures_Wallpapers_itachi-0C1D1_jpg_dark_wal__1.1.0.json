@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/itachi-0C1D1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151216",
+        "foreground": "#eeded5",
+        "cursor": "#eeded5"
+    },
+    "colors": {
+        "color0": "#151216",
+        "color1": "#903D43",
+        "color2": "#A63F40",
+        "color3": "#A34748",
+        "color4": "#BD5251",
+        "color5": "#917F83",
+        "color6": "#BCA8A4",
+        "color7": "#eeded5",
+        "color8": "#a69b95",
+        "color9": "#903D43",
+        "color10": "#A63F40",
+        "color11": "#A34748",
+        "color12": "#BD5251",
+        "color13": "#917F83",
+        "color14": "#BCA8A4",
+        "color15": "#eeded5"
+    }
+}

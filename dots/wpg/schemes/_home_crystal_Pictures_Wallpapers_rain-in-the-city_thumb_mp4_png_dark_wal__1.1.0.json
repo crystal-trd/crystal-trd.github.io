@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/rain-in-the-city.thumb.mp4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0D14",
+        "foreground": "#afcced",
+        "cursor": "#afcced"
+    },
+    "colors": {
+        "color0": "#0A0D14",
+        "color1": "#967E80",
+        "color2": "#5D87BB",
+        "color3": "#578ACB",
+        "color4": "#6D99D0",
+        "color5": "#70A0DC",
+        "color6": "#69ACEE",
+        "color7": "#afcced",
+        "color8": "#7a8ea5",
+        "color9": "#967E80",
+        "color10": "#5D87BB",
+        "color11": "#578ACB",
+        "color12": "#6D99D0",
+        "color13": "#70A0DC",
+        "color14": "#69ACEE",
+        "color15": "#afcced"
+    }
+}

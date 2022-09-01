@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/sleepy_mountains_light_v06.png",
+    "alpha": "100",
+    "special": {
+        "background": "#12202e",
+        "foreground": "#e0eef5",
+        "cursor": "#e0eef5"
+    },
+    "colors": {
+        "color0": "#12202e",
+        "color1": "#7BC3E0",
+        "color2": "#86BBD9",
+        "color3": "#90D2EB",
+        "color4": "#A4DDF3",
+        "color5": "#B2E5FA",
+        "color6": "#CADCF4",
+        "color7": "#e0eef5",
+        "color8": "#9ca6ab",
+        "color9": "#7BC3E0",
+        "color10": "#86BBD9",
+        "color11": "#90D2EB",
+        "color12": "#A4DDF3",
+        "color13": "#B2E5FA",
+        "color14": "#CADCF4",
+        "color15": "#e0eef5"
+    }
+}

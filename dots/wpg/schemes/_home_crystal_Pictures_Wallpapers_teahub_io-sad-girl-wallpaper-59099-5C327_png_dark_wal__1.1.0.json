@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/teahub.io-sad-girl-wallpaper-59099-5C327.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101215",
+        "foreground": "#dcdddf",
+        "cursor": "#dcdddf"
+    },
+    "colors": {
+        "color0": "#101215",
+        "color1": "#8F9092",
+        "color2": "#A69E9A",
+        "color3": "#AFB3B4",
+        "color4": "#CDB8AD",
+        "color5": "#B6BEC2",
+        "color6": "#BCC4C9",
+        "color7": "#dcdddf",
+        "color8": "#9a9a9c",
+        "color9": "#8F9092",
+        "color10": "#A69E9A",
+        "color11": "#AFB3B4",
+        "color12": "#CDB8AD",
+        "color13": "#B6BEC2",
+        "color14": "#BCC4C9",
+        "color15": "#dcdddf"
+    }
+}

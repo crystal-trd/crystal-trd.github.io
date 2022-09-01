@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/wp9123388-pastel-aqua-wallpapers.png",
+    "alpha": "100",
+    "special": {
+        "background": "#242a2a",
+        "foreground": "#ccdcd3",
+        "cursor": "#ccdcd3"
+    },
+    "colors": {
+        "color0": "#242a2a",
+        "color1": "#7DAA97",
+        "color2": "#88AB9B",
+        "color3": "#A49FA0",
+        "color4": "#90B7A5",
+        "color5": "#C8A6B1",
+        "color6": "#99D4BB",
+        "color7": "#ccdcd3",
+        "color8": "#8e9a93",
+        "color9": "#7DAA97",
+        "color10": "#88AB9B",
+        "color11": "#A49FA0",
+        "color12": "#90B7A5",
+        "color13": "#C8A6B1",
+        "color14": "#99D4BB",
+        "color15": "#ccdcd3"
+    }
+}

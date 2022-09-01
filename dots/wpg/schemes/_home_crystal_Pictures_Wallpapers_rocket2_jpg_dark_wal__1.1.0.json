@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/rocket2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090B0F",
+        "foreground": "#92c4cd",
+        "cursor": "#92c4cd"
+    },
+    "colors": {
+        "color0": "#090B0F",
+        "color1": "#5D6166",
+        "color2": "#996F5E",
+        "color3": "#C29071",
+        "color4": "#1A6E8A",
+        "color5": "#5A7888",
+        "color6": "#837D86",
+        "color7": "#92c4cd",
+        "color8": "#66898f",
+        "color9": "#5D6166",
+        "color10": "#996F5E",
+        "color11": "#C29071",
+        "color12": "#1A6E8A",
+        "color13": "#5A7888",
+        "color14": "#837D86",
+        "color15": "#92c4cd"
+    }
+}

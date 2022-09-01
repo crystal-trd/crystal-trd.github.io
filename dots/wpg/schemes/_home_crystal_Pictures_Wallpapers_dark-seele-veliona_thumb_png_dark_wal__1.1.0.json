@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/dark-seele-veliona.thumb.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a080a",
+        "foreground": "#a4bdbb",
+        "cursor": "#a4bdbb"
+    },
+    "colors": {
+        "color0": "#0a080a",
+        "color1": "#443B49",
+        "color2": "#36484D",
+        "color3": "#3C6363",
+        "color4": "#44585C",
+        "color5": "#4B6C6C",
+        "color6": "#56606A",
+        "color7": "#a4bdbb",
+        "color8": "#728482",
+        "color9": "#443B49",
+        "color10": "#36484D",
+        "color11": "#3C6363",
+        "color12": "#44585C",
+        "color13": "#4B6C6C",
+        "color14": "#56606A",
+        "color15": "#a4bdbb"
+    }
+}

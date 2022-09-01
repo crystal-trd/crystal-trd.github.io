@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/aperturescience-A8398.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0D0D",
+        "foreground": "#e0e0e0",
+        "cursor": "#e0e0e0"
+    },
+    "colors": {
+        "color0": "#0D0D0D",
+        "color1": "#909090",
+        "color2": "#A4A4A4",
+        "color3": "#ADADAD",
+        "color4": "#B3B3B3",
+        "color5": "#BBBBBB",
+        "color6": "#C8C8C8",
+        "color7": "#e0e0e0",
+        "color8": "#9c9c9c",
+        "color9": "#909090",
+        "color10": "#A4A4A4",
+        "color11": "#ADADAD",
+        "color12": "#B3B3B3",
+        "color13": "#BBBBBB",
+        "color14": "#C8C8C8",
+        "color15": "#e0e0e0"
+    }
+}

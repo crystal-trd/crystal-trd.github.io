@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/od_wallhaven-j5lk95.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1116",
+        "foreground": "#aac8db",
+        "cursor": "#aac8db"
+    },
+    "colors": {
+        "color0": "#0f1116",
+        "color1": "#CB986F",
+        "color2": "#726A8A",
+        "color3": "#9D6BA1",
+        "color4": "#C573B2",
+        "color5": "#C778DA",
+        "color6": "#CA79E3",
+        "color7": "#aac8db",
+        "color8": "#768c99",
+        "color9": "#CB986F",
+        "color10": "#726A8A",
+        "color11": "#9D6BA1",
+        "color12": "#C573B2",
+        "color13": "#C778DA",
+        "color14": "#CA79E3",
+        "color15": "#aac8db"
+    }
+}

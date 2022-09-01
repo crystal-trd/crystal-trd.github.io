@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/arch-chan-2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a0f",
+        "foreground": "#dacdca",
+        "cursor": "#dacdca"
+    },
+    "colors": {
+        "color0": "#0a0a0f",
+        "color1": "#58535C",
+        "color2": "#99685F",
+        "color3": "#DFAE67",
+        "color4": "#346896",
+        "color5": "#1793D1",
+        "color6": "#54A1CB",
+        "color7": "#dacdca",
+        "color8": "#988f8d",
+        "color9": "#58535C",
+        "color10": "#99685F",
+        "color11": "#DFAE67",
+        "color12": "#346896",
+        "color13": "#1793D1",
+        "color14": "#54A1CB",
+        "color15": "#dacdca"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/wallhaven-x8gkvz.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a0b",
+        "foreground": "#c9c2c2",
+        "cursor": "#c9c2c2"
+    },
+    "colors": {
+        "color0": "#0a0a0b",
+        "color1": "#685756",
+        "color2": "#666061",
+        "color3": "#736767",
+        "color4": "#BB5953",
+        "color5": "#8F6E6C",
+        "color6": "#AD877A",
+        "color7": "#c9c2c2",
+        "color8": "#8c8787",
+        "color9": "#685756",
+        "color10": "#666061",
+        "color11": "#736767",
+        "color12": "#BB5953",
+        "color13": "#8F6E6C",
+        "color14": "#AD877A",
+        "color15": "#c9c2c2"
+    }
+}

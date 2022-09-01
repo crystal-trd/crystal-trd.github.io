@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/animegirlbright-C852E.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181f36",
+        "foreground": "#d7d3ea",
+        "cursor": "#d7d3ea"
+    },
+    "colors": {
+        "color0": "#181f36",
+        "color1": "#2863D2",
+        "color2": "#5B66D3",
+        "color3": "#AE52D8",
+        "color4": "#3AA8ED",
+        "color5": "#5F97DD",
+        "color6": "#A09DE6",
+        "color7": "#d7d3ea",
+        "color8": "#9693a3",
+        "color9": "#2863D2",
+        "color10": "#5B66D3",
+        "color11": "#AE52D8",
+        "color12": "#3AA8ED",
+        "color13": "#5F97DD",
+        "color14": "#A09DE6",
+        "color15": "#d7d3ea"
+    }
+}

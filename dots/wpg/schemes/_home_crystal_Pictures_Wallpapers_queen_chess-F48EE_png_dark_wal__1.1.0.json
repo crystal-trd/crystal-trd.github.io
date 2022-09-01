@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/queen_chess-F48EE.png",
+    "alpha": "100",
+    "special": {
+        "background": "#610d15",
+        "foreground": "#deeef5",
+        "cursor": "#deeef5"
+    },
+    "colors": {
+        "color0": "#610d15",
+        "color1": "#51AFEF",
+        "color2": "#CEA4A4",
+        "color3": "#CA8EE7",
+        "color4": "#BBC2CF",
+        "color5": "#A3DAF3",
+        "color6": "#EFD8E3",
+        "color7": "#deeef5",
+        "color8": "#9ba6ab",
+        "color9": "#51AFEF",
+        "color10": "#CEA4A4",
+        "color11": "#CA8EE7",
+        "color12": "#BBC2CF",
+        "color13": "#A3DAF3",
+        "color14": "#EFD8E3",
+        "color15": "#deeef5"
+    }
+}

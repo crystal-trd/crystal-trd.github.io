@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/ign_blue_red_blue_blond-C483E.png",
+    "alpha": "100",
+    "special": {
+        "background": "#191d24",
+        "foreground": "#c6d7d8",
+        "cursor": "#c6d7d8"
+    },
+    "colors": {
+        "color0": "#191d24",
+        "color1": "#5A7290",
+        "color2": "#8F7B84",
+        "color3": "#6B8EAB",
+        "color4": "#A1A29A",
+        "color5": "#D4B38D",
+        "color6": "#E5CEA0",
+        "color7": "#c6d7d8",
+        "color8": "#8a9697",
+        "color9": "#5A7290",
+        "color10": "#8F7B84",
+        "color11": "#6B8EAB",
+        "color12": "#A1A29A",
+        "color13": "#D4B38D",
+        "color14": "#E5CEA0",
+        "color15": "#c6d7d8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/unL2Hw4-B31E1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#051117",
+        "foreground": "#d49d89",
+        "cursor": "#d49d89"
+    },
+    "colors": {
+        "color0": "#051117",
+        "color1": "#2B3742",
+        "color2": "#463E42",
+        "color3": "#3C414A",
+        "color4": "#4D4243",
+        "color5": "#694747",
+        "color6": "#9C4A2E",
+        "color7": "#d49d89",
+        "color8": "#946d5f",
+        "color9": "#2B3742",
+        "color10": "#463E42",
+        "color11": "#3C414A",
+        "color12": "#4D4243",
+        "color13": "#694747",
+        "color14": "#9C4A2E",
+        "color15": "#d49d89"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/b32ka5qckvg91.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#180c07",
+        "foreground": "#f4f3c2",
+        "cursor": "#f4f3c2"
+    },
+    "colors": {
+        "color0": "#180c07",
+        "color1": "#D2AB3E",
+        "color2": "#D69E4D",
+        "color3": "#F2B14A",
+        "color4": "#F8DB54",
+        "color5": "#FCF96D",
+        "color6": "#837F84",
+        "color7": "#f4f3c2",
+        "color8": "#aaaa87",
+        "color9": "#D2AB3E",
+        "color10": "#D69E4D",
+        "color11": "#F2B14A",
+        "color12": "#F8DB54",
+        "color13": "#FCF96D",
+        "color14": "#837F84",
+        "color15": "#f4f3c2"
+    }
+}

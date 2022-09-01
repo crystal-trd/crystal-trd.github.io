@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/Reddit/r682cswdi2k91.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F1512",
+        "foreground": "#d0d0d9",
+        "cursor": "#d0d0d9"
+    },
+    "colors": {
+        "color0": "#0F1512",
+        "color1": "#9F6668",
+        "color2": "#395593",
+        "color3": "#556794",
+        "color4": "#7386A7",
+        "color5": "#5D8DCF",
+        "color6": "#969EB3",
+        "color7": "#d0d0d9",
+        "color8": "#919197",
+        "color9": "#9F6668",
+        "color10": "#395593",
+        "color11": "#556794",
+        "color12": "#7386A7",
+        "color13": "#5D8DCF",
+        "color14": "#969EB3",
+        "color15": "#d0d0d9"
+    }
+}

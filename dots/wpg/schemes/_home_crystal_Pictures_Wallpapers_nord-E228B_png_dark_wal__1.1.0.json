@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/nord-E228B.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1e26",
+        "foreground": "#c0d8de",
+        "cursor": "#c0d8de"
+    },
+    "colors": {
+        "color0": "#1c1e26",
+        "color1": "#668BB0",
+        "color2": "#658BB2",
+        "color3": "#7AABC4",
+        "color4": "#A39F9E",
+        "color5": "#CBC0A6",
+        "color6": "#85B9CB",
+        "color7": "#c0d8de",
+        "color8": "#86979b",
+        "color9": "#668BB0",
+        "color10": "#658BB2",
+        "color11": "#7AABC4",
+        "color12": "#A39F9E",
+        "color13": "#CBC0A6",
+        "color14": "#85B9CB",
+        "color15": "#c0d8de"
+    }
+}

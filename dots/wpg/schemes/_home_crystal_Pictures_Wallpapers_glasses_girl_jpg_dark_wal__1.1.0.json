@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/glasses_girl.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f0f",
+        "foreground": "#dee1e5",
+        "cursor": "#dee1e5"
+    },
+    "colors": {
+        "color0": "#0f0f0f",
+        "color1": "#916571",
+        "color2": "#77788A",
+        "color3": "#94788A",
+        "color4": "#A798A6",
+        "color5": "#C1B0BD",
+        "color6": "#CDBAC6",
+        "color7": "#dee1e5",
+        "color8": "#9b9da0",
+        "color9": "#916571",
+        "color10": "#77788A",
+        "color11": "#94788A",
+        "color12": "#A798A6",
+        "color13": "#C1B0BD",
+        "color14": "#CDBAC6",
+        "color15": "#dee1e5"
+    }
+}

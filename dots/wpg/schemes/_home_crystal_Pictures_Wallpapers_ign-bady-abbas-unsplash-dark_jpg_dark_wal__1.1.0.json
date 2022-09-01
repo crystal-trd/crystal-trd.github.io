@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/ign-bady-abbas-unsplash-dark.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1219",
+        "foreground": "#b3ced8",
+        "cursor": "#b3ced8"
+    },
+    "colors": {
+        "color0": "#0e1219",
+        "color1": "#4B576C",
+        "color2": "#AB7065",
+        "color3": "#96A978",
+        "color4": "#3D5F84",
+        "color5": "#567294",
+        "color6": "#718EA7",
+        "color7": "#b3ced8",
+        "color8": "#7d9097",
+        "color9": "#4B576C",
+        "color10": "#AB7065",
+        "color11": "#96A978",
+        "color12": "#3D5F84",
+        "color13": "#567294",
+        "color14": "#718EA7",
+        "color15": "#b3ced8"
+    }
+}

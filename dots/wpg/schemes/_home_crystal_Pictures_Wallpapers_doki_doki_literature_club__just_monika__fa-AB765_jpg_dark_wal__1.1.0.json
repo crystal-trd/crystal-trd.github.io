@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/doki_doki_literature_club__just_monika__fa-AB765.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060606",
+        "foreground": "#f1dfe0",
+        "cursor": "#f1dfe0"
+    },
+    "colors": {
+        "color0": "#060606",
+        "color1": "#D88B77",
+        "color2": "#808581",
+        "color3": "#E39F98",
+        "color4": "#C8ACA9",
+        "color5": "#F7B0AF",
+        "color6": "#E6DADA",
+        "color7": "#f1dfe0",
+        "color8": "#a89c9c",
+        "color9": "#D88B77",
+        "color10": "#808581",
+        "color11": "#E39F98",
+        "color12": "#C8ACA9",
+        "color13": "#F7B0AF",
+        "color14": "#E6DADA",
+        "color15": "#f1dfe0"
+    }
+}

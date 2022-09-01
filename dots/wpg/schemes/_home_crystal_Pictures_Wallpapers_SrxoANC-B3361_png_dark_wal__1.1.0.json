@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/SrxoANC-B3361.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f15",
+        "foreground": "#c1bec0",
+        "cursor": "#c1bec0"
+    },
+    "colors": {
+        "color0": "#0f0f15",
+        "color1": "#38435C",
+        "color2": "#35446E",
+        "color3": "#585B70",
+        "color4": "#385087",
+        "color5": "#5D6E95",
+        "color6": "#7F7E92",
+        "color7": "#c1bec0",
+        "color8": "#878586",
+        "color9": "#38435C",
+        "color10": "#35446E",
+        "color11": "#585B70",
+        "color12": "#385087",
+        "color13": "#5D6E95",
+        "color14": "#7F7E92",
+        "color15": "#c1bec0"
+    }
+}

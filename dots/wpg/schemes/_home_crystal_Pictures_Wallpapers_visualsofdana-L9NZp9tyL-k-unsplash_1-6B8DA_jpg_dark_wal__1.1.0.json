@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/visualsofdana-L9NZp9tyL-k-unsplash_1-6B8DA.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101e1f",
+        "foreground": "#e0d2cc",
+        "cursor": "#e0d2cc"
+    },
+    "colors": {
+        "color0": "#101e1f",
+        "color1": "#CC8A79",
+        "color2": "#6B7E85",
+        "color3": "#B4938A",
+        "color4": "#CA998B",
+        "color5": "#CEA697",
+        "color6": "#E2B09D",
+        "color7": "#e0d2cc",
+        "color8": "#9c938e",
+        "color9": "#CC8A79",
+        "color10": "#6B7E85",
+        "color11": "#B4938A",
+        "color12": "#CA998B",
+        "color13": "#CEA697",
+        "color14": "#E2B09D",
+        "color15": "#e0d2cc"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/road-marking-bushes-3786F.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0d0c",
+        "foreground": "#c2bab2",
+        "cursor": "#c2bab2"
+    },
+    "colors": {
+        "color0": "#0c0d0c",
+        "color1": "#5F462B",
+        "color2": "#3D3E41",
+        "color3": "#3E4141",
+        "color4": "#454745",
+        "color5": "#6E665E",
+        "color6": "#926236",
+        "color7": "#c2bab2",
+        "color8": "#87827c",
+        "color9": "#5F462B",
+        "color10": "#3D3E41",
+        "color11": "#3E4141",
+        "color12": "#454745",
+        "color13": "#6E665E",
+        "color14": "#926236",
+        "color15": "#c2bab2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/g24hi9ari1w51.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c17",
+        "foreground": "#dddfed",
+        "cursor": "#dddfed"
+    },
+    "colors": {
+        "color0": "#0c0c17",
+        "color1": "#4BA5CE",
+        "color2": "#BE838F",
+        "color3": "#C5A9B6",
+        "color4": "#A6AED9",
+        "color5": "#AFCAEA",
+        "color6": "#E3D0D9",
+        "color7": "#dddfed",
+        "color8": "#9a9ca5",
+        "color9": "#4BA5CE",
+        "color10": "#BE838F",
+        "color11": "#C5A9B6",
+        "color12": "#A6AED9",
+        "color13": "#AFCAEA",
+        "color14": "#E3D0D9",
+        "color15": "#dddfed"
+    }
+}

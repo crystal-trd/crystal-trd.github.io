@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/USH_Hogwarts2_VB-E6893.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0704",
+        "foreground": "#bab5b8",
+        "cursor": "#bab5b8"
+    },
+    "colors": {
+        "color0": "#0a0704",
+        "color1": "#6D604E",
+        "color2": "#B96B1C",
+        "color3": "#95632A",
+        "color4": "#91734D",
+        "color5": "#AB8F62",
+        "color6": "#CB9C46",
+        "color7": "#bab5b8",
+        "color8": "#827e80",
+        "color9": "#6D604E",
+        "color10": "#B96B1C",
+        "color11": "#95632A",
+        "color12": "#91734D",
+        "color13": "#AB8F62",
+        "color14": "#CB9C46",
+        "color15": "#bab5b8"
+    }
+}

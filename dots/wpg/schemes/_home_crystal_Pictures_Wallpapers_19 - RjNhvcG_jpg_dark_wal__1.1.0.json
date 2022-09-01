@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/19 - RjNhvcG.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010108",
+        "foreground": "#f6f6f5",
+        "cursor": "#f6f6f5"
+    },
+    "colors": {
+        "color0": "#010108",
+        "color1": "#3A53B7",
+        "color2": "#535F9A",
+        "color3": "#8D84A7",
+        "color4": "#BBB1B4",
+        "color5": "#D4D6DD",
+        "color6": "#FDFDFB",
+        "color7": "#f6f6f5",
+        "color8": "#acacab",
+        "color9": "#3A53B7",
+        "color10": "#535F9A",
+        "color11": "#8D84A7",
+        "color12": "#BBB1B4",
+        "color13": "#D4D6DD",
+        "color14": "#FDFDFB",
+        "color15": "#f6f6f5"
+    }
+}

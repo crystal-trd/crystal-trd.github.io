@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/violet-evergarden-walk.thumb.mp4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d0e",
+        "foreground": "#d3e5d2",
+        "cursor": "#d3e5d2"
+    },
+    "colors": {
+        "color0": "#0d0d0e",
+        "color1": "#56674E",
+        "color2": "#6E8D4C",
+        "color3": "#D1E631",
+        "color4": "#A4B84C",
+        "color5": "#D0EB5B",
+        "color6": "#6DB8A4",
+        "color7": "#d3e5d2",
+        "color8": "#93a093",
+        "color9": "#56674E",
+        "color10": "#6E8D4C",
+        "color11": "#D1E631",
+        "color12": "#A4B84C",
+        "color13": "#D0EB5B",
+        "color14": "#6DB8A4",
+        "color15": "#d3e5d2"
+    }
+}

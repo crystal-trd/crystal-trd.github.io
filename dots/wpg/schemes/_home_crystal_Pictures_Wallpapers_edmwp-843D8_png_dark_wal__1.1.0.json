@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/edmwp-843D8.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#f1f1f1",
+        "cursor": "#f1f1f1"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#6E6E6E",
+        "color2": "#838383",
+        "color3": "#979797",
+        "color4": "#B0B0B0",
+        "color5": "#CFCFCF",
+        "color6": "#E5E5E5",
+        "color7": "#f1f1f1",
+        "color8": "#a8a8a8",
+        "color9": "#6E6E6E",
+        "color10": "#838383",
+        "color11": "#979797",
+        "color12": "#B0B0B0",
+        "color13": "#CFCFCF",
+        "color14": "#E5E5E5",
+        "color15": "#f1f1f1"
+    }
+}

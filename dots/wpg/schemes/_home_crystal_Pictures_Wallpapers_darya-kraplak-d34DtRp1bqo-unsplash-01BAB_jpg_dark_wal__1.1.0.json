@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/darya-kraplak-d34DtRp1bqo-unsplash-01BAB.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1c1c",
+        "foreground": "#ccc2be",
+        "cursor": "#ccc2be"
+    },
+    "colors": {
+        "color0": "#1e1c1c",
+        "color1": "#766558",
+        "color2": "#716A64",
+        "color3": "#866958",
+        "color4": "#897468",
+        "color5": "#9D8678",
+        "color6": "#837E81",
+        "color7": "#ccc2be",
+        "color8": "#8e8785",
+        "color9": "#766558",
+        "color10": "#716A64",
+        "color11": "#866958",
+        "color12": "#897468",
+        "color13": "#9D8678",
+        "color14": "#837E81",
+        "color15": "#ccc2be"
+    }
+}

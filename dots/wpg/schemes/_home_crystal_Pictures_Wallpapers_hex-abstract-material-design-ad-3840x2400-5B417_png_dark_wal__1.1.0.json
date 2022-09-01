@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/hex-abstract-material-design-ad-3840x2400-5B417.png",
+    "alpha": "100",
+    "special": {
+        "background": "#163746",
+        "foreground": "#9fe4e0",
+        "cursor": "#9fe4e0"
+    },
+    "colors": {
+        "color0": "#163746",
+        "color1": "#645887",
+        "color2": "#935B83",
+        "color3": "#F06C82",
+        "color4": "#1CB1FC",
+        "color5": "#22B6F7",
+        "color6": "#39CDD9",
+        "color7": "#9fe4e0",
+        "color8": "#6f9f9c",
+        "color9": "#645887",
+        "color10": "#935B83",
+        "color11": "#F06C82",
+        "color12": "#1CB1FC",
+        "color13": "#22B6F7",
+        "color14": "#39CDD9",
+        "color15": "#9fe4e0"
+    }
+}

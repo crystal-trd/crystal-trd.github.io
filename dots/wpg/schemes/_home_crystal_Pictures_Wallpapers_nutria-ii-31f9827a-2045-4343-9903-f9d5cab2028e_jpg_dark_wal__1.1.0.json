@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/nutria-ii-31f9827a-2045-4343-9903-f9d5cab2028e.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#18110f",
+        "foreground": "#d3d5d8",
+        "cursor": "#d3d5d8"
+    },
+    "colors": {
+        "color0": "#18110f",
+        "color1": "#C89C72",
+        "color2": "#778491",
+        "color3": "#A49E9B",
+        "color4": "#AEB0B5",
+        "color5": "#C7AF9C",
+        "color6": "#C6C3BE",
+        "color7": "#d3d5d8",
+        "color8": "#939597",
+        "color9": "#C89C72",
+        "color10": "#778491",
+        "color11": "#A49E9B",
+        "color12": "#AEB0B5",
+        "color13": "#C7AF9C",
+        "color14": "#C6C3BE",
+        "color15": "#d3d5d8"
+    }
+}

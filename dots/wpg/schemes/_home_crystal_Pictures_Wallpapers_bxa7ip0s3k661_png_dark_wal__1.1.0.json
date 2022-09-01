@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/bxa7ip0s3k661.png",
+    "alpha": "100",
+    "special": {
+        "background": "#151313",
+        "foreground": "#f6ebe2",
+        "cursor": "#f6ebe2"
+    },
+    "colors": {
+        "color0": "#151313",
+        "color1": "#B1ACA5",
+        "color2": "#DAB2A3",
+        "color3": "#E0C7B2",
+        "color4": "#BDBFC4",
+        "color5": "#CED0D2",
+        "color6": "#E1DEDD",
+        "color7": "#f6ebe2",
+        "color8": "#aca49e",
+        "color9": "#B1ACA5",
+        "color10": "#DAB2A3",
+        "color11": "#E0C7B2",
+        "color12": "#BDBFC4",
+        "color13": "#CED0D2",
+        "color14": "#E1DEDD",
+        "color15": "#f6ebe2"
+    }
+}

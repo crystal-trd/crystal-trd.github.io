@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/tkmz-1586660776096-708CD.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#201f1e",
+        "foreground": "#e5dcd3",
+        "cursor": "#e5dcd3"
+    },
+    "colors": {
+        "color0": "#201f1e",
+        "color1": "#788B93",
+        "color2": "#A19E9B",
+        "color3": "#BA9399",
+        "color4": "#84A58C",
+        "color5": "#CBA5A9",
+        "color6": "#E3B1BC",
+        "color7": "#e5dcd3",
+        "color8": "#a09a93",
+        "color9": "#788B93",
+        "color10": "#A19E9B",
+        "color11": "#BA9399",
+        "color12": "#84A58C",
+        "color13": "#CBA5A9",
+        "color14": "#E3B1BC",
+        "color15": "#e5dcd3"
+    }
+}

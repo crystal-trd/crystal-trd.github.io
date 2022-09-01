@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/25 - Gkkn1Et.png",
+    "alpha": "100",
+    "special": {
+        "background": "#190a25",
+        "foreground": "#e5dfe8",
+        "cursor": "#e5dfe8"
+    },
+    "colors": {
+        "color0": "#190a25",
+        "color1": "#8D6FAA",
+        "color2": "#B375CA",
+        "color3": "#9F91BC",
+        "color4": "#9B94C8",
+        "color5": "#A197CC",
+        "color6": "#B1ACD5",
+        "color7": "#e5dfe8",
+        "color8": "#a09ca2",
+        "color9": "#8D6FAA",
+        "color10": "#B375CA",
+        "color11": "#9F91BC",
+        "color12": "#9B94C8",
+        "color13": "#A197CC",
+        "color14": "#B1ACD5",
+        "color15": "#e5dfe8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/bicycle-D9582.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#131116",
+        "foreground": "#d8d4ca",
+        "cursor": "#d8d4ca"
+    },
+    "colors": {
+        "color0": "#131116",
+        "color1": "#918878",
+        "color2": "#C1897B",
+        "color3": "#7C728D",
+        "color4": "#9B928B",
+        "color5": "#B2AC98",
+        "color6": "#B9B5A4",
+        "color7": "#d8d4ca",
+        "color8": "#97948d",
+        "color9": "#918878",
+        "color10": "#C1897B",
+        "color11": "#7C728D",
+        "color12": "#9B928B",
+        "color13": "#B2AC98",
+        "color14": "#B9B5A4",
+        "color15": "#d8d4ca"
+    }
+}

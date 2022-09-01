@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/Reddit/cpbthiummai91.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f12",
+        "foreground": "#e5e6e7",
+        "cursor": "#e5e6e7"
+    },
+    "colors": {
+        "color0": "#0f0f12",
+        "color1": "#6E7689",
+        "color2": "#758A97",
+        "color3": "#9A9CA8",
+        "color4": "#B1B8C5",
+        "color5": "#C3C2C1",
+        "color6": "#CED1D7",
+        "color7": "#e5e6e7",
+        "color8": "#a0a1a1",
+        "color9": "#6E7689",
+        "color10": "#758A97",
+        "color11": "#9A9CA8",
+        "color12": "#B1B8C5",
+        "color13": "#C3C2C1",
+        "color14": "#CED1D7",
+        "color15": "#e5e6e7"
+    }
+}

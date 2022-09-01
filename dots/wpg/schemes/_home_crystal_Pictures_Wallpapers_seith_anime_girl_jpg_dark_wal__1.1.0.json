@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/seith_anime_girl.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010102",
+        "foreground": "#f2e0e4",
+        "cursor": "#f2e0e4"
+    },
+    "colors": {
+        "color0": "#010102",
+        "color1": "#E9708D",
+        "color2": "#7F8783",
+        "color3": "#909090",
+        "color4": "#B0B0B0",
+        "color5": "#EFA1B3",
+        "color6": "#D0D0D0",
+        "color7": "#f2e0e4",
+        "color8": "#a99c9f",
+        "color9": "#E9708D",
+        "color10": "#7F8783",
+        "color11": "#909090",
+        "color12": "#B0B0B0",
+        "color13": "#EFA1B3",
+        "color14": "#D0D0D0",
+        "color15": "#f2e0e4"
+    }
+}

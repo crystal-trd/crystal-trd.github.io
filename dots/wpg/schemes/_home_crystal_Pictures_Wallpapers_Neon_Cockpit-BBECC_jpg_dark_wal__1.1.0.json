@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/Neon_Cockpit-BBECC.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020203",
+        "foreground": "#8da6bd",
+        "cursor": "#8da6bd"
+    },
+    "colors": {
+        "color0": "#020203",
+        "color1": "#112D4D",
+        "color2": "#1D3658",
+        "color3": "#395842",
+        "color4": "#284E60",
+        "color5": "#98491D",
+        "color6": "#7C9C74",
+        "color7": "#8da6bd",
+        "color8": "#627484",
+        "color9": "#112D4D",
+        "color10": "#1D3658",
+        "color11": "#395842",
+        "color12": "#284E60",
+        "color13": "#98491D",
+        "color14": "#7C9C74",
+        "color15": "#8da6bd"
+    }
+}

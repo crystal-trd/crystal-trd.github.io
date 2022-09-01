@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/material-squares-EC7D6.png",
+    "alpha": "100",
+    "special": {
+        "background": "#050711",
+        "foreground": "#e7d8d4",
+        "cursor": "#e7d8d4"
+    },
+    "colors": {
+        "color0": "#050711",
+        "color1": "#B56C58",
+        "color2": "#A77365",
+        "color3": "#B98578",
+        "color4": "#C48B7C",
+        "color5": "#C79081",
+        "color6": "#D6AFA4",
+        "color7": "#e7d8d4",
+        "color8": "#a19794",
+        "color9": "#B56C58",
+        "color10": "#A77365",
+        "color11": "#B98578",
+        "color12": "#C48B7C",
+        "color13": "#C79081",
+        "color14": "#D6AFA4",
+        "color15": "#e7d8d4"
+    }
+}

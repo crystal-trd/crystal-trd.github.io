@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/daa34ha-db596cb1-d059-42f7-98f5-b6d1cc75e98b.thumb.gif.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1b2c45",
+        "foreground": "#cee6ea",
+        "cursor": "#cee6ea"
+    },
+    "colors": {
+        "color0": "#1b2c45",
+        "color1": "#827888",
+        "color2": "#54A1BB",
+        "color3": "#34A9CE",
+        "color4": "#43CCDF",
+        "color5": "#54DEE7",
+        "color6": "#A7A6A5",
+        "color7": "#cee6ea",
+        "color8": "#90a1a3",
+        "color9": "#827888",
+        "color10": "#54A1BB",
+        "color11": "#34A9CE",
+        "color12": "#43CCDF",
+        "color13": "#54DEE7",
+        "color14": "#A7A6A5",
+        "color15": "#cee6ea"
+    }
+}

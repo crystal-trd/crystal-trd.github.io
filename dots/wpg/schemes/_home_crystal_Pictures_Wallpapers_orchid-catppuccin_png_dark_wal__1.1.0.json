@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/orchid-catppuccin.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0a12",
+        "foreground": "#e4e7ee",
+        "cursor": "#e4e7ee"
+    },
+    "colors": {
+        "color0": "#0c0a12",
+        "color1": "#98ADD4",
+        "color2": "#BAA2C5",
+        "color3": "#BBC4DE",
+        "color4": "#96CDFB",
+        "color5": "#C9CCFA",
+        "color6": "#F6C3E8",
+        "color7": "#e4e7ee",
+        "color8": "#9fa1a6",
+        "color9": "#98ADD4",
+        "color10": "#BAA2C5",
+        "color11": "#BBC4DE",
+        "color12": "#96CDFB",
+        "color13": "#C9CCFA",
+        "color14": "#F6C3E8",
+        "color15": "#e4e7ee"
+    }
+}

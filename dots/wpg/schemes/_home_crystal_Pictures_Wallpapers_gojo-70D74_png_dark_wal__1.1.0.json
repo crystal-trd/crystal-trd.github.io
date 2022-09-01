@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/gojo-70D74.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f0f",
+        "foreground": "#e1e0e0",
+        "cursor": "#e1e0e0"
+    },
+    "colors": {
+        "color0": "#0f0f0f",
+        "color1": "#8F8D76",
+        "color2": "#798782",
+        "color3": "#9F9F9B",
+        "color4": "#ACAA8B",
+        "color5": "#8BACAB",
+        "color6": "#C4C3B8",
+        "color7": "#e1e0e0",
+        "color8": "#9d9c9c",
+        "color9": "#8F8D76",
+        "color10": "#798782",
+        "color11": "#9F9F9B",
+        "color12": "#ACAA8B",
+        "color13": "#8BACAB",
+        "color14": "#C4C3B8",
+        "color15": "#e1e0e0"
+    }
+}

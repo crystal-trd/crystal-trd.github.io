@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/62 - knpnM9Z.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0404",
+        "foreground": "#e9e5df",
+        "cursor": "#e9e5df"
+    },
+    "colors": {
+        "color0": "#0c0404",
+        "color1": "#D1995C",
+        "color2": "#E3A05F",
+        "color3": "#568AA1",
+        "color4": "#ABB2AC",
+        "color5": "#D6B198",
+        "color6": "#E8CEA5",
+        "color7": "#e9e5df",
+        "color8": "#a3a09c",
+        "color9": "#D1995C",
+        "color10": "#E3A05F",
+        "color11": "#568AA1",
+        "color12": "#ABB2AC",
+        "color13": "#D6B198",
+        "color14": "#E8CEA5",
+        "color15": "#e9e5df"
+    }
+}

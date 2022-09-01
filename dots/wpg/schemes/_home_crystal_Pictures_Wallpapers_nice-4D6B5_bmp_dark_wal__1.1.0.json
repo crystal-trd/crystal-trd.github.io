@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/nice-4D6B5.bmp",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0b0a",
+        "foreground": "#e1cbc1",
+        "cursor": "#e1cbc1"
+    },
+    "colors": {
+        "color0": "#0a0b0a",
+        "color1": "#D89373",
+        "color2": "#767985",
+        "color3": "#8C7C82",
+        "color4": "#7B8491",
+        "color5": "#9F9596",
+        "color6": "#AF928D",
+        "color7": "#e1cbc1",
+        "color8": "#9d8e87",
+        "color9": "#D89373",
+        "color10": "#767985",
+        "color11": "#8C7C82",
+        "color12": "#7B8491",
+        "color13": "#9F9596",
+        "color14": "#AF928D",
+        "color15": "#e1cbc1"
+    }
+}

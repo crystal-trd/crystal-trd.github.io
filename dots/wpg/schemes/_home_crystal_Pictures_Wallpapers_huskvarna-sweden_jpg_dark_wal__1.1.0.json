@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/huskvarna-sweden.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F171A",
+        "foreground": "#c8cbc8",
+        "cursor": "#c8cbc8"
+    },
+    "colors": {
+        "color0": "#0F171A",
+        "color1": "#5C6661",
+        "color2": "#546A67",
+        "color3": "#79837C",
+        "color4": "#7D8780",
+        "color5": "#8F968F",
+        "color6": "#9CA29B",
+        "color7": "#c8cbc8",
+        "color8": "#8c8e8c",
+        "color9": "#5C6661",
+        "color10": "#546A67",
+        "color11": "#79837C",
+        "color12": "#7D8780",
+        "color13": "#8F968F",
+        "color14": "#9CA29B",
+        "color15": "#c8cbc8"
+    }
+}

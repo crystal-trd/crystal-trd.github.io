@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/wallhaven-odl957_1920x1080-9CC0E.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0A12",
+        "foreground": "#e4e4ec",
+        "cursor": "#e4e4ec"
+    },
+    "colors": {
+        "color0": "#0D0A12",
+        "color1": "#521F67",
+        "color2": "#543F93",
+        "color3": "#662595",
+        "color4": "#652598",
+        "color5": "#9669A9",
+        "color6": "#B3A9CB",
+        "color7": "#e4e4ec",
+        "color8": "#9f9fa5",
+        "color9": "#521F67",
+        "color10": "#543F93",
+        "color11": "#662595",
+        "color12": "#652598",
+        "color13": "#9669A9",
+        "color14": "#B3A9CB",
+        "color15": "#e4e4ec"
+    }
+}

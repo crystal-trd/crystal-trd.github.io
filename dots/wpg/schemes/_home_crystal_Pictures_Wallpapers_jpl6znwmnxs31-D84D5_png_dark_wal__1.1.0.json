@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/jpl6znwmnxs31-D84D5.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181817",
+        "foreground": "#f5d7a1",
+        "cursor": "#f5d7a1"
+    },
+    "colors": {
+        "color0": "#181817",
+        "color1": "#766F65",
+        "color2": "#9E6055",
+        "color3": "#847B71",
+        "color4": "#EB757B",
+        "color5": "#8F8579",
+        "color6": "#F39E6C",
+        "color7": "#f5d7a1",
+        "color8": "#ab9670",
+        "color9": "#766F65",
+        "color10": "#9E6055",
+        "color11": "#847B71",
+        "color12": "#EB757B",
+        "color13": "#8F8579",
+        "color14": "#F39E6C",
+        "color15": "#f5d7a1"
+    }
+}

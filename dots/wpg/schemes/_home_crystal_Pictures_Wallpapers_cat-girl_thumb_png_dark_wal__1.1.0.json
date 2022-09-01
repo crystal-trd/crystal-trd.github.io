@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/cat-girl.thumb.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1413",
+        "foreground": "#ece3c4",
+        "cursor": "#ece3c4"
+    },
+    "colors": {
+        "color0": "#0f1413",
+        "color1": "#9C623A",
+        "color2": "#956E52",
+        "color3": "#649243",
+        "color4": "#A5955D",
+        "color5": "#C1B74E",
+        "color6": "#68B58B",
+        "color7": "#ece3c4",
+        "color8": "#a59e89",
+        "color9": "#9C623A",
+        "color10": "#956E52",
+        "color11": "#649243",
+        "color12": "#A5955D",
+        "color13": "#C1B74E",
+        "color14": "#68B58B",
+        "color15": "#ece3c4"
+    }
+}

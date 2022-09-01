@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/ggjy0rlvq3781.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c0c",
+        "foreground": "#d6d7d7",
+        "cursor": "#d6d7d7"
+    },
+    "colors": {
+        "color0": "#0c0c0c",
+        "color1": "#5F6060",
+        "color2": "#6A6A6A",
+        "color3": "#7F8080",
+        "color4": "#8D8D8D",
+        "color5": "#9FA0A0",
+        "color6": "#ADADAD",
+        "color7": "#d6d7d7",
+        "color8": "#959696",
+        "color9": "#5F6060",
+        "color10": "#6A6A6A",
+        "color11": "#7F8080",
+        "color12": "#8D8D8D",
+        "color13": "#9FA0A0",
+        "color14": "#ADADAD",
+        "color15": "#d6d7d7"
+    }
+}

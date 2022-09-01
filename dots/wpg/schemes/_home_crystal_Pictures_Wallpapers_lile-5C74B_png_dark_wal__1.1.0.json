@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/lile-5C74B.png",
+    "alpha": "100",
+    "special": {
+        "background": "#170424",
+        "foreground": "#cabee1",
+        "cursor": "#cabee1"
+    },
+    "colors": {
+        "color0": "#170424",
+        "color1": "#6B528E",
+        "color2": "#79609E",
+        "color3": "#7C64A3",
+        "color4": "#8971B2",
+        "color5": "#967EC1",
+        "color6": "#9C84C9",
+        "color7": "#cabee1",
+        "color8": "#8d859d",
+        "color9": "#6B528E",
+        "color10": "#79609E",
+        "color11": "#7C64A3",
+        "color12": "#8971B2",
+        "color13": "#967EC1",
+        "color14": "#9C84C9",
+        "color15": "#cabee1"
+    }
+}

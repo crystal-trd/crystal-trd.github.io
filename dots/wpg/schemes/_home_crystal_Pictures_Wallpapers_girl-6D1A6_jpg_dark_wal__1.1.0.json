@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/girl-6D1A6.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050815",
+        "foreground": "#bcb7b2",
+        "cursor": "#bcb7b2"
+    },
+    "colors": {
+        "color0": "#050815",
+        "color1": "#2C4B56",
+        "color2": "#385962",
+        "color3": "#4D4F54",
+        "color4": "#646666",
+        "color5": "#8D403C",
+        "color6": "#8B756B",
+        "color7": "#bcb7b2",
+        "color8": "#83807c",
+        "color9": "#2C4B56",
+        "color10": "#385962",
+        "color11": "#4D4F54",
+        "color12": "#646666",
+        "color13": "#8D403C",
+        "color14": "#8B756B",
+        "color15": "#bcb7b2"
+    }
+}

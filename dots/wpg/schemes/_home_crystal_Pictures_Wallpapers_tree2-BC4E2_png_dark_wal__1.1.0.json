@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/tree2-BC4E2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b1407",
+        "foreground": "#e0ebed",
+        "cursor": "#e0ebed"
+    },
+    "colors": {
+        "color0": "#0b1407",
+        "color1": "#4EBFD0",
+        "color2": "#9EAFAA",
+        "color3": "#BAC9B5",
+        "color4": "#ABD5DB",
+        "color5": "#CED7D1",
+        "color6": "#E1E4DA",
+        "color7": "#e0ebed",
+        "color8": "#9ca4a5",
+        "color9": "#4EBFD0",
+        "color10": "#9EAFAA",
+        "color11": "#BAC9B5",
+        "color12": "#ABD5DB",
+        "color13": "#CED7D1",
+        "color14": "#E1E4DA",
+        "color15": "#e0ebed"
+    }
+}

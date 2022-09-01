@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/jesus.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1f25",
+        "foreground": "#bdc0cf",
+        "cursor": "#bdc0cf"
+    },
+    "colors": {
+        "color0": "#1c1f25",
+        "color1": "#5F6681",
+        "color2": "#5E6680",
+        "color3": "#6F748C",
+        "color4": "#7C829B",
+        "color5": "#7E85A1",
+        "color6": "#81869E",
+        "color7": "#bdc0cf",
+        "color8": "#848690",
+        "color9": "#5F6681",
+        "color10": "#5E6680",
+        "color11": "#6F748C",
+        "color12": "#7C829B",
+        "color13": "#7E85A1",
+        "color14": "#81869E",
+        "color15": "#bdc0cf"
+    }
+}

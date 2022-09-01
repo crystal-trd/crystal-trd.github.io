@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/Reddit/ab4zuk7pohj91.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c0d",
+        "foreground": "#dddfdd",
+        "cursor": "#dddfdd"
+    },
+    "colors": {
+        "color0": "#0c0c0d",
+        "color1": "#727788",
+        "color2": "#7A8595",
+        "color3": "#8D8E95",
+        "color4": "#999DA6",
+        "color5": "#AEB0B1",
+        "color6": "#BAC0C3",
+        "color7": "#dddfdd",
+        "color8": "#9a9c9a",
+        "color9": "#727788",
+        "color10": "#7A8595",
+        "color11": "#8D8E95",
+        "color12": "#999DA6",
+        "color13": "#AEB0B1",
+        "color14": "#BAC0C3",
+        "color15": "#dddfdd"
+    }
+}

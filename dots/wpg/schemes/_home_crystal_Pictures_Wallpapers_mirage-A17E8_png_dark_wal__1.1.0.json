@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/mirage-A17E8.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f2038",
+        "foreground": "#dce1e5",
+        "cursor": "#dce1e5"
+    },
+    "colors": {
+        "color0": "#1f2038",
+        "color1": "#D3B58C",
+        "color2": "#FACE89",
+        "color3": "#E3D5B4",
+        "color4": "#A3B0C8",
+        "color5": "#B9C9DE",
+        "color6": "#BBCCE2",
+        "color7": "#dce1e5",
+        "color8": "#9a9da0",
+        "color9": "#D3B58C",
+        "color10": "#FACE89",
+        "color11": "#E3D5B4",
+        "color12": "#A3B0C8",
+        "color13": "#B9C9DE",
+        "color14": "#BBCCE2",
+        "color15": "#dce1e5"
+    }
+}

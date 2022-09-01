@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/DASH_720.mp4",
+    "alpha": "100",
+    "special": {
+        "background": "#131514",
+        "foreground": "#e4e0cc",
+        "cursor": "#e4e0cc"
+    },
+    "colors": {
+        "color0": "#131514",
+        "color1": "#897761",
+        "color2": "#788375",
+        "color3": "#998D72",
+        "color4": "#C2B67E",
+        "color5": "#708293",
+        "color6": "#B4A895",
+        "color7": "#e4e0cc",
+        "color8": "#9f9c8e",
+        "color9": "#897761",
+        "color10": "#788375",
+        "color11": "#998D72",
+        "color12": "#C2B67E",
+        "color13": "#708293",
+        "color14": "#B4A895",
+        "color15": "#e4e0cc"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/00138.png",
+    "alpha": "100",
+    "special": {
+        "background": "#190c0f",
+        "foreground": "#94c5d3",
+        "cursor": "#94c5d3"
+    },
+    "colors": {
+        "color0": "#190c0f",
+        "color1": "#9E6256",
+        "color2": "#B28E6C",
+        "color3": "#EB9F51",
+        "color4": "#26688F",
+        "color5": "#927A85",
+        "color6": "#1190B4",
+        "color7": "#94c5d3",
+        "color8": "#678993",
+        "color9": "#9E6256",
+        "color10": "#B28E6C",
+        "color11": "#EB9F51",
+        "color12": "#26688F",
+        "color13": "#927A85",
+        "color14": "#1190B4",
+        "color15": "#94c5d3"
+    }
+}

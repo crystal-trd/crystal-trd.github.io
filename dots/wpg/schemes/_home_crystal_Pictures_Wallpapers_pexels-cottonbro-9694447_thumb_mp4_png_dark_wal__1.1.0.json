@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/pexels-cottonbro-9694447.thumb.mp4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080909",
+        "foreground": "#dbd8d5",
+        "cursor": "#dbd8d5"
+    },
+    "colors": {
+        "color0": "#080909",
+        "color1": "#807F7C",
+        "color2": "#83817E",
+        "color3": "#92908D",
+        "color4": "#A4A09B",
+        "color5": "#B3AFAB",
+        "color6": "#C2BDB7",
+        "color7": "#dbd8d5",
+        "color8": "#999795",
+        "color9": "#807F7C",
+        "color10": "#83817E",
+        "color11": "#92908D",
+        "color12": "#A4A09B",
+        "color13": "#B3AFAB",
+        "color14": "#C2BDB7",
+        "color15": "#dbd8d5"
+    }
+}

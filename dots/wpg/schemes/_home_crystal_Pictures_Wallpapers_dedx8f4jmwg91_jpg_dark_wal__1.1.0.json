@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/dedx8f4jmwg91.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#131418",
+        "foreground": "#e2e6f0",
+        "cursor": "#e2e6f0"
+    },
+    "colors": {
+        "color0": "#131418",
+        "color1": "#8A96B3",
+        "color2": "#92AAD4",
+        "color3": "#9DB2D8",
+        "color4": "#B7C3DA",
+        "color5": "#B6C7E9",
+        "color6": "#CBD6F0",
+        "color7": "#e2e6f0",
+        "color8": "#9ea1a8",
+        "color9": "#8A96B3",
+        "color10": "#92AAD4",
+        "color11": "#9DB2D8",
+        "color12": "#B7C3DA",
+        "color13": "#B6C7E9",
+        "color14": "#CBD6F0",
+        "color15": "#e2e6f0"
+    }
+}

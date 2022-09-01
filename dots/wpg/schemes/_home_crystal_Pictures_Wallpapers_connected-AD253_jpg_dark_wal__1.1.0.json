@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/connected-AD253.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a110d",
+        "foreground": "#ece7e0",
+        "cursor": "#ece7e0"
+    },
+    "colors": {
+        "color0": "#0a110d",
+        "color1": "#466559",
+        "color2": "#516358",
+        "color3": "#916F5A",
+        "color4": "#6E8B71",
+        "color5": "#A1AB95",
+        "color6": "#CDC8B2",
+        "color7": "#ece7e0",
+        "color8": "#a5a19c",
+        "color9": "#466559",
+        "color10": "#516358",
+        "color11": "#916F5A",
+        "color12": "#6E8B71",
+        "color13": "#A1AB95",
+        "color14": "#CDC8B2",
+        "color15": "#ece7e0"
+    }
+}

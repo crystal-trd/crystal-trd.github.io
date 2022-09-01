@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/ezgif-4-e63bc68c19e3-ECAFA.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a09",
+        "foreground": "#e0e0da",
+        "cursor": "#e0e0da"
+    },
+    "colors": {
+        "color0": "#0a0a09",
+        "color1": "#BDBAA5",
+        "color2": "#C4B890",
+        "color3": "#C1BDAA",
+        "color4": "#BFC0B0",
+        "color5": "#D6CDA0",
+        "color6": "#C7C6B5",
+        "color7": "#e0e0da",
+        "color8": "#9c9c98",
+        "color9": "#BDBAA5",
+        "color10": "#C4B890",
+        "color11": "#C1BDAA",
+        "color12": "#BFC0B0",
+        "color13": "#D6CDA0",
+        "color14": "#C7C6B5",
+        "color15": "#e0e0da"
+    }
+}

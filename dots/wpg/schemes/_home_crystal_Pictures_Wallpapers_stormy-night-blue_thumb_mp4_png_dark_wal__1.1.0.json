@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/stormy-night-blue.thumb.mp4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d19",
+        "foreground": "#b8a7b9",
+        "cursor": "#b8a7b9"
+    },
+    "colors": {
+        "color0": "#0d0d19",
+        "color1": "#4C4B72",
+        "color2": "#654D6E",
+        "color3": "#7F8D6A",
+        "color4": "#655283",
+        "color5": "#5E6499",
+        "color6": "#7C66A4",
+        "color7": "#b8a7b9",
+        "color8": "#807481",
+        "color9": "#4C4B72",
+        "color10": "#654D6E",
+        "color11": "#7F8D6A",
+        "color12": "#655283",
+        "color13": "#5E6499",
+        "color14": "#7C66A4",
+        "color15": "#b8a7b9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/FRAME.thumb.mp4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0D1416",
+        "foreground": "#c4d1df",
+        "cursor": "#c4d1df"
+    },
+    "colors": {
+        "color0": "#0D1416",
+        "color1": "#7B856B",
+        "color2": "#BA8B70",
+        "color3": "#5A7888",
+        "color4": "#6E92A5",
+        "color5": "#7AA9C6",
+        "color6": "#BFB2AE",
+        "color7": "#c4d1df",
+        "color8": "#89929c",
+        "color9": "#7B856B",
+        "color10": "#BA8B70",
+        "color11": "#5A7888",
+        "color12": "#6E92A5",
+        "color13": "#7AA9C6",
+        "color14": "#BFB2AE",
+        "color15": "#c4d1df"
+    }
+}

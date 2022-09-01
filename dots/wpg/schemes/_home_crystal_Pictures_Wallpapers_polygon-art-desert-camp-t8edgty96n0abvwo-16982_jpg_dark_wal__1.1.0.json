@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/polygon-art-desert-camp-t8edgty96n0abvwo-16982.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#33172b",
+        "foreground": "#e2ecf1",
+        "cursor": "#e2ecf1"
+    },
+    "colors": {
+        "color0": "#33172b",
+        "color1": "#F8B688",
+        "color2": "#FECE90",
+        "color3": "#FCE4A4",
+        "color4": "#96B6E6",
+        "color5": "#ADCEFA",
+        "color6": "#ACD0F7",
+        "color7": "#e2ecf1",
+        "color8": "#9ea5a8",
+        "color9": "#F8B688",
+        "color10": "#FECE90",
+        "color11": "#FCE4A4",
+        "color12": "#96B6E6",
+        "color13": "#ADCEFA",
+        "color14": "#ACD0F7",
+        "color15": "#e2ecf1"
+    }
+}

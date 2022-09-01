@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/Reddit/mxysovgbgfg91.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100f10",
+        "foreground": "#ddc2cd",
+        "cursor": "#ddc2cd"
+    },
+    "colors": {
+        "color0": "#100f10",
+        "color1": "#D03E81",
+        "color2": "#AC7289",
+        "color3": "#CB6F93",
+        "color4": "#7A8693",
+        "color5": "#9B99A2",
+        "color6": "#96A7AD",
+        "color7": "#ddc2cd",
+        "color8": "#9a878f",
+        "color9": "#D03E81",
+        "color10": "#AC7289",
+        "color11": "#CB6F93",
+        "color12": "#7A8693",
+        "color13": "#9B99A2",
+        "color14": "#96A7AD",
+        "color15": "#ddc2cd"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/as9yepvksbv61.png",
+    "alpha": "100",
+    "special": {
+        "background": "#28211e",
+        "foreground": "#f3eae2",
+        "cursor": "#f3eae2"
+    },
+    "colors": {
+        "color0": "#28211e",
+        "color1": "#D2B7AA",
+        "color2": "#E5CAB6",
+        "color3": "#B4BCD1",
+        "color4": "#CBB6CF",
+        "color5": "#DFD1DF",
+        "color6": "#EED8CB",
+        "color7": "#f3eae2",
+        "color8": "#aaa39e",
+        "color9": "#D2B7AA",
+        "color10": "#E5CAB6",
+        "color11": "#B4BCD1",
+        "color12": "#CBB6CF",
+        "color13": "#DFD1DF",
+        "color14": "#EED8CB",
+        "color15": "#f3eae2"
+    }
+}

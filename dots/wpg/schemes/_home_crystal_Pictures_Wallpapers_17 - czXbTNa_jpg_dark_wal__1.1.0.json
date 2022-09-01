@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/17 - czXbTNa.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#22272d",
+        "foreground": "#e4e9ec",
+        "cursor": "#e4e9ec"
+    },
+    "colors": {
+        "color0": "#22272d",
+        "color1": "#B0B9C5",
+        "color2": "#BAC5CE",
+        "color3": "#BAD4E2",
+        "color4": "#CDD1D4",
+        "color5": "#E7E1D7",
+        "color6": "#D3DCE3",
+        "color7": "#e4e9ec",
+        "color8": "#9fa3a5",
+        "color9": "#B0B9C5",
+        "color10": "#BAC5CE",
+        "color11": "#BAD4E2",
+        "color12": "#CDD1D4",
+        "color13": "#E7E1D7",
+        "color14": "#D3DCE3",
+        "color15": "#e4e9ec"
+    }
+}

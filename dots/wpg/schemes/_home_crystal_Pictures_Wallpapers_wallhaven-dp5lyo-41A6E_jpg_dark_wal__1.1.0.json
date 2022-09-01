@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/wallhaven-dp5lyo-41A6E.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#070C11",
+        "foreground": "#b1d9dd",
+        "cursor": "#b1d9dd"
+    },
+    "colors": {
+        "color0": "#070C11",
+        "color1": "#455964",
+        "color2": "#4A6975",
+        "color3": "#3B6D81",
+        "color4": "#4B7986",
+        "color5": "#528995",
+        "color6": "#64A0AB",
+        "color7": "#b1d9dd",
+        "color8": "#7b979a",
+        "color9": "#455964",
+        "color10": "#4A6975",
+        "color11": "#3B6D81",
+        "color12": "#4B7986",
+        "color13": "#528995",
+        "color14": "#64A0AB",
+        "color15": "#b1d9dd"
+    }
+}

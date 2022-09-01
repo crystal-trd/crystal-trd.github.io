@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/wallhaven-oxeej7.png",
+    "alpha": "100",
+    "special": {
+        "background": "#111010",
+        "foreground": "#e8e6e5",
+        "cursor": "#e8e6e5"
+    },
+    "colors": {
+        "color0": "#111010",
+        "color1": "#82807F",
+        "color2": "#918E8D",
+        "color3": "#B4B1AF",
+        "color4": "#C1BEBC",
+        "color5": "#C4C1BE",
+        "color6": "#D2CFCD",
+        "color7": "#e8e6e5",
+        "color8": "#a2a1a0",
+        "color9": "#82807F",
+        "color10": "#918E8D",
+        "color11": "#B4B1AF",
+        "color12": "#C1BEBC",
+        "color13": "#C4C1BE",
+        "color14": "#D2CFCD",
+        "color15": "#e8e6e5"
+    }
+}

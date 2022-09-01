@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/anime-girls-red-dress-hatsune-miku-vocaloi-6A0D3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0101",
+        "foreground": "#e0ac9e",
+        "cursor": "#e0ac9e"
+    },
+    "colors": {
+        "color0": "#0a0101",
+        "color1": "#992F1C",
+        "color2": "#9B3523",
+        "color3": "#A72C23",
+        "color4": "#B4492E",
+        "color5": "#C7583A",
+        "color6": "#A65855",
+        "color7": "#e0ac9e",
+        "color8": "#9c786e",
+        "color9": "#992F1C",
+        "color10": "#9B3523",
+        "color11": "#A72C23",
+        "color12": "#B4492E",
+        "color13": "#C7583A",
+        "color14": "#A65855",
+        "color15": "#e0ac9e"
+    }
+}

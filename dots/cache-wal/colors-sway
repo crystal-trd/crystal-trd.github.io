@@ -1,0 +1,21 @@
+set $wallpaper /home/crystal/Pictures/Wallpapers/brutusbrodie.png
+
+set $background #0c0a0a
+set $foreground #c8c5bd
+
+set $color0 #0c0a0a
+set $color1 #504E4C
+set $color2 #6E675C
+set $color3 #90664B
+set $color4 #998B72
+set $color5 #CBA165
+set $color6 #4F88AC
+set $color7 #c8c5bd
+set $color8 #8c8984
+set $color9 #504E4C
+set $color10 #6E675C
+set $color11 #90664B
+set $color12 #998B72
+set $color13 #CBA165
+set $color14 #4F88AC
+set $color15 #c8c5bd

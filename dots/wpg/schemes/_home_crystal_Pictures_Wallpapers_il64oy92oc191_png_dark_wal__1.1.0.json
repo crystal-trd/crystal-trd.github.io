@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/il64oy92oc191.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121517",
+        "foreground": "#d4d6e1",
+        "cursor": "#d4d6e1"
+    },
+    "colors": {
+        "color0": "#121517",
+        "color1": "#39688D",
+        "color2": "#58748F",
+        "color3": "#996980",
+        "color4": "#628DAD",
+        "color5": "#68A5D1",
+        "color6": "#53C4E9",
+        "color7": "#d4d6e1",
+        "color8": "#94959d",
+        "color9": "#39688D",
+        "color10": "#58748F",
+        "color11": "#996980",
+        "color12": "#628DAD",
+        "color13": "#68A5D1",
+        "color14": "#53C4E9",
+        "color15": "#d4d6e1"
+    }
+}

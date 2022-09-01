@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/minimal-22-nordified.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1e24",
+        "foreground": "#b4ccd9",
+        "cursor": "#b4ccd9"
+    },
+    "colors": {
+        "color0": "#1a1e24",
+        "color1": "#625767",
+        "color2": "#A85C65",
+        "color3": "#C56C6D",
+        "color4": "#C89477",
+        "color5": "#577091",
+        "color6": "#6489AF",
+        "color7": "#b4ccd9",
+        "color8": "#7d8e97",
+        "color9": "#625767",
+        "color10": "#A85C65",
+        "color11": "#C56C6D",
+        "color12": "#C89477",
+        "color13": "#577091",
+        "color14": "#6489AF",
+        "color15": "#b4ccd9"
+    }
+}

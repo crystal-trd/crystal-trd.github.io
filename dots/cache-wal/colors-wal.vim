@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/crystal/Pictures/Wallpapers/brutusbrodie.png"
+let background = "#0c0a0a"
+let foreground = "#c8c5bd"
+let cursor     = "#c8c5bd"
+
+" Colors
+let color0  = "#0c0a0a"
+let color1  = "#504E4C"
+let color2  = "#6E675C"
+let color3  = "#90664B"
+let color4  = "#998B72"
+let color5  = "#CBA165"
+let color6  = "#4F88AC"
+let color7  = "#c8c5bd"
+let color8  = "#8c8984"
+let color9  = "#504E4C"
+let color10 = "#6E675C"
+let color11 = "#90664B"
+let color12 = "#998B72"
+let color13 = "#CBA165"
+let color14 = "#4F88AC"
+let color15 = "#c8c5bd"

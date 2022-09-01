@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/anime-anime-girls-loli-stage-darkness-scre-4BCE0.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080808",
+        "foreground": "#e0e8e9",
+        "cursor": "#e0e8e9"
+    },
+    "colors": {
+        "color0": "#080808",
+        "color1": "#447D62",
+        "color2": "#5D5BAD",
+        "color3": "#8F70AC",
+        "color4": "#9B75C2",
+        "color5": "#3DA9A6",
+        "color6": "#A29CC6",
+        "color7": "#e0e8e9",
+        "color8": "#9ca2a3",
+        "color9": "#447D62",
+        "color10": "#5D5BAD",
+        "color11": "#8F70AC",
+        "color12": "#9B75C2",
+        "color13": "#3DA9A6",
+        "color14": "#A29CC6",
+        "color15": "#e0e8e9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/gruv_waifu-708C2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121213",
+        "foreground": "#e9cfbe",
+        "cursor": "#e9cfbe"
+    },
+    "colors": {
+        "color0": "#121213",
+        "color1": "#AA4C35",
+        "color2": "#9E5C51",
+        "color3": "#D66956",
+        "color4": "#BC8865",
+        "color5": "#E3956D",
+        "color6": "#A37D81",
+        "color7": "#e9cfbe",
+        "color8": "#a39085",
+        "color9": "#AA4C35",
+        "color10": "#9E5C51",
+        "color11": "#D66956",
+        "color12": "#BC8865",
+        "color13": "#E3956D",
+        "color14": "#A37D81",
+        "color15": "#e9cfbe"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/New_Project.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181b22",
+        "foreground": "#dccdc9",
+        "cursor": "#dccdc9"
+    },
+    "colors": {
+        "color0": "#181b22",
+        "color1": "#576F8F",
+        "color2": "#607B9F",
+        "color3": "#6C8DA9",
+        "color4": "#6B8DB0",
+        "color5": "#7CA6C2",
+        "color6": "#A2949F",
+        "color7": "#dccdc9",
+        "color8": "#9a8f8c",
+        "color9": "#576F8F",
+        "color10": "#607B9F",
+        "color11": "#6C8DA9",
+        "color12": "#6B8DB0",
+        "color13": "#7CA6C2",
+        "color14": "#A2949F",
+        "color15": "#dccdc9"
+    }
+}

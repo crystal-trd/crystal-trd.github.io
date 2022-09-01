@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/wallhaven-5we787-ADA73.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E202F",
+        "foreground": "#f6ebe4",
+        "cursor": "#f6ebe4"
+    },
+    "colors": {
+        "color0": "#0E202F",
+        "color1": "#DF7A87",
+        "color2": "#BE8981",
+        "color3": "#B89FA3",
+        "color4": "#FB8E93",
+        "color5": "#EFA59B",
+        "color6": "#FF93A0",
+        "color7": "#f6ebe4",
+        "color8": "#aca49f",
+        "color9": "#DF7A87",
+        "color10": "#BE8981",
+        "color11": "#B89FA3",
+        "color12": "#FB8E93",
+        "color13": "#EFA59B",
+        "color14": "#FF93A0",
+        "color15": "#f6ebe4"
+    }
+}

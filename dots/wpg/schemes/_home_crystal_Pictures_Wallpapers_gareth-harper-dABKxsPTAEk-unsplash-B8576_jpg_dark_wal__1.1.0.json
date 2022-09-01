@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/gareth-harper-dABKxsPTAEk-unsplash-B8576.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a0d00",
+        "foreground": "#eace9e",
+        "cursor": "#eace9e"
+    },
+    "colors": {
+        "color0": "#1a0d00",
+        "color1": "#AA6F17",
+        "color2": "#975F24",
+        "color3": "#B17126",
+        "color4": "#C37C2F",
+        "color5": "#D49031",
+        "color6": "#EEA44F",
+        "color7": "#eace9e",
+        "color8": "#a3906e",
+        "color9": "#AA6F17",
+        "color10": "#975F24",
+        "color11": "#B17126",
+        "color12": "#C37C2F",
+        "color13": "#D49031",
+        "color14": "#EEA44F",
+        "color15": "#eace9e"
+    }
+}

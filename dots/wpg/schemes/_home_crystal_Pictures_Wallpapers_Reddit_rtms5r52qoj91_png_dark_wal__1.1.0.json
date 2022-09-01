@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/Reddit/rtms5r52qoj91.png",
+    "alpha": "100",
+    "special": {
+        "background": "#040303",
+        "foreground": "#dfecf2",
+        "cursor": "#dfecf2"
+    },
+    "colors": {
+        "color0": "#040303",
+        "color1": "#8DA4B3",
+        "color2": "#CFB5BA",
+        "color3": "#94B7CA",
+        "color4": "#A2CFE2",
+        "color5": "#B0D7EA",
+        "color6": "#D0D5E2",
+        "color7": "#dfecf2",
+        "color8": "#9ca5a9",
+        "color9": "#8DA4B3",
+        "color10": "#CFB5BA",
+        "color11": "#94B7CA",
+        "color12": "#A2CFE2",
+        "color13": "#B0D7EA",
+        "color14": "#D0D5E2",
+        "color15": "#dfecf2"
+    }
+}

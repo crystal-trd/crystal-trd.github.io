@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/anime-witch-girl.thumb.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fef6fe",
+        "foreground": "#1D0526",
+        "cursor": "#1D0526"
+    },
+    "colors": {
+        "color0": "#fef6fe",
+        "color1": "#AB31B3",
+        "color2": "#9B5DAA",
+        "color3": "#B95BC6",
+        "color4": "#D367DB",
+        "color5": "#BA8DB8",
+        "color6": "#E58EE9",
+        "color7": "#1D0526",
+        "color8": "#967797",
+        "color9": "#AB31B3",
+        "color10": "#9B5DAA",
+        "color11": "#B95BC6",
+        "color12": "#D367DB",
+        "color13": "#BA8DB8",
+        "color14": "#E58EE9",
+        "color15": "#1D0526"
+    }
+}

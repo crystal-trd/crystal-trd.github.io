@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/ccaz0dgveio41-5EB78.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0c12",
+        "foreground": "#e2e5ed",
+        "cursor": "#e2e5ed"
+    },
+    "colors": {
+        "color0": "#0d0c12",
+        "color1": "#649BD2",
+        "color2": "#B79AB2",
+        "color3": "#9AB1D6",
+        "color4": "#D0B6CC",
+        "color5": "#ABCBE8",
+        "color6": "#D8C9D9",
+        "color7": "#e2e5ed",
+        "color8": "#9ea0a5",
+        "color9": "#649BD2",
+        "color10": "#B79AB2",
+        "color11": "#9AB1D6",
+        "color12": "#D0B6CC",
+        "color13": "#ABCBE8",
+        "color14": "#D8C9D9",
+        "color15": "#e2e5ed"
+    }
+}

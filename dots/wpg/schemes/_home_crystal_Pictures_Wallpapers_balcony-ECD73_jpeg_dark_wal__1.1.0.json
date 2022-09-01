@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/balcony-ECD73.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#081927",
+        "foreground": "#c0cbc3",
+        "cursor": "#c0cbc3"
+    },
+    "colors": {
+        "color0": "#081927",
+        "color1": "#A4584E",
+        "color2": "#AB8C78",
+        "color3": "#587A85",
+        "color4": "#3AA895",
+        "color5": "#4FAD9B",
+        "color6": "#B29885",
+        "color7": "#c0cbc3",
+        "color8": "#868e88",
+        "color9": "#A4584E",
+        "color10": "#AB8C78",
+        "color11": "#587A85",
+        "color12": "#3AA895",
+        "color13": "#4FAD9B",
+        "color14": "#B29885",
+        "color15": "#c0cbc3"
+    }
+}

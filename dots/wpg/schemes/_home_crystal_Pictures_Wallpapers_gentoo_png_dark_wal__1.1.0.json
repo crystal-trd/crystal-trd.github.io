@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/gentoo.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1e25",
+        "foreground": "#e5e6e9",
+        "cursor": "#e5e6e9"
+    },
+    "colors": {
+        "color0": "#1a1e25",
+        "color1": "#7D828A",
+        "color2": "#8B8E96",
+        "color3": "#9A9EA5",
+        "color4": "#AAADB4",
+        "color5": "#BBBEC4",
+        "color6": "#CCCFD4",
+        "color7": "#e5e6e9",
+        "color8": "#a0a1a3",
+        "color9": "#7D828A",
+        "color10": "#8B8E96",
+        "color11": "#9A9EA5",
+        "color12": "#AAADB4",
+        "color13": "#BBBEC4",
+        "color14": "#CCCFD4",
+        "color15": "#e5e6e9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/r2uhg0vjl2t81.png",
+    "alpha": "100",
+    "special": {
+        "background": "#192d21",
+        "foreground": "#c8e1ca",
+        "cursor": "#c8e1ca"
+    },
+    "colors": {
+        "color0": "#192d21",
+        "color1": "#05AF8F",
+        "color2": "#23B896",
+        "color3": "#51B993",
+        "color4": "#03CFB0",
+        "color5": "#30D0AF",
+        "color6": "#5ECFAA",
+        "color7": "#c8e1ca",
+        "color8": "#8c9d8d",
+        "color9": "#05AF8F",
+        "color10": "#23B896",
+        "color11": "#51B993",
+        "color12": "#03CFB0",
+        "color13": "#30D0AF",
+        "color14": "#5ECFAA",
+        "color15": "#c8e1ca"
+    }
+}

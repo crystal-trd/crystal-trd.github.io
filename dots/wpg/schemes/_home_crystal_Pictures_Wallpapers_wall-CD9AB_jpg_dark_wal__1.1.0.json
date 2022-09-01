@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/wall-CD9AB.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3c0099",
+        "foreground": "#e3c6f6",
+        "cursor": "#e3c6f6"
+    },
+    "colors": {
+        "color0": "#3c0099",
+        "color1": "#A839FF",
+        "color2": "#8856FF",
+        "color3": "#B846FF",
+        "color4": "#9865FF",
+        "color5": "#C24FFF",
+        "color6": "#C870FF",
+        "color7": "#e3c6f6",
+        "color8": "#9e8aac",
+        "color9": "#A839FF",
+        "color10": "#8856FF",
+        "color11": "#B846FF",
+        "color12": "#9865FF",
+        "color13": "#C24FFF",
+        "color14": "#C870FF",
+        "color15": "#e3c6f6"
+    }
+}

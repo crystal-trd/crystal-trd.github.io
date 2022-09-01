@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/Screenshot_20210106-223910_Anistream-91893.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0b0b",
+        "foreground": "#929191",
+        "cursor": "#929191"
+    },
+    "colors": {
+        "color0": "#0c0b0b",
+        "color1": "#313132",
+        "color2": "#323134",
+        "color3": "#323234",
+        "color4": "#343234",
+        "color5": "#343434",
+        "color6": "#353535",
+        "color7": "#929191",
+        "color8": "#666565",
+        "color9": "#313132",
+        "color10": "#323134",
+        "color11": "#323234",
+        "color12": "#343234",
+        "color13": "#343434",
+        "color14": "#353535",
+        "color15": "#929191"
+    }
+}

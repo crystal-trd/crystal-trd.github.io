@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/is9g9n7p01m61.png",
+    "alpha": "100",
+    "special": {
+        "background": "#2e2623",
+        "foreground": "#f0e4e9",
+        "cursor": "#f0e4e9"
+    },
+    "colors": {
+        "color0": "#2e2623",
+        "color1": "#CCA5A0",
+        "color2": "#CCB0AF",
+        "color3": "#D8BEBC",
+        "color4": "#D5BAC6",
+        "color5": "#DCC4CC",
+        "color6": "#E9D0D8",
+        "color7": "#f0e4e9",
+        "color8": "#a89fa3",
+        "color9": "#CCA5A0",
+        "color10": "#CCB0AF",
+        "color11": "#D8BEBC",
+        "color12": "#D5BAC6",
+        "color13": "#DCC4CC",
+        "color14": "#E9D0D8",
+        "color15": "#f0e4e9"
+    }
+}

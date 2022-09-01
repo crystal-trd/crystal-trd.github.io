@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/4irtiy2f2uk71.png",
+    "alpha": "100",
+    "special": {
+        "background": "#111216",
+        "foreground": "#a4dff3",
+        "cursor": "#a4dff3"
+    },
+    "colors": {
+        "color0": "#111216",
+        "color1": "#966353",
+        "color2": "#D39F54",
+        "color3": "#3F5A89",
+        "color4": "#526899",
+        "color5": "#6185B8",
+        "color6": "#5EA3E5",
+        "color7": "#a4dff3",
+        "color8": "#729caa",
+        "color9": "#966353",
+        "color10": "#D39F54",
+        "color11": "#3F5A89",
+        "color12": "#526899",
+        "color13": "#6185B8",
+        "color14": "#5EA3E5",
+        "color15": "#a4dff3"
+    }
+}

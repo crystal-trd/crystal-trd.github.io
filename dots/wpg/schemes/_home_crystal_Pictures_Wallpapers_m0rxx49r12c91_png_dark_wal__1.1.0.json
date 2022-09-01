@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/m0rxx49r12c91.png",
+    "alpha": "100",
+    "special": {
+        "background": "#07070D",
+        "foreground": "#ccd0e4",
+        "cursor": "#ccd0e4"
+    },
+    "colors": {
+        "color0": "#07070D",
+        "color1": "#291CE3",
+        "color2": "#572AE3",
+        "color3": "#625DDD",
+        "color4": "#9D27A9",
+        "color5": "#AE51E0",
+        "color6": "#4DACE0",
+        "color7": "#ccd0e4",
+        "color8": "#8e919f",
+        "color9": "#291CE3",
+        "color10": "#572AE3",
+        "color11": "#625DDD",
+        "color12": "#9D27A9",
+        "color13": "#AE51E0",
+        "color14": "#4DACE0",
+        "color15": "#ccd0e4"
+    }
+}

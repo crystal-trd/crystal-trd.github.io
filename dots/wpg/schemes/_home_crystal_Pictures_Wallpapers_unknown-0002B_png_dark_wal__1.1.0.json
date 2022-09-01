@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/unknown-0002B.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f2227",
+        "foreground": "#ece2e0",
+        "cursor": "#ece2e0"
+    },
+    "colors": {
+        "color0": "#1f2227",
+        "color1": "#71BBD9",
+        "color2": "#A698A6",
+        "color3": "#E897A7",
+        "color4": "#DEA1A9",
+        "color5": "#B7BBCD",
+        "color6": "#DAD5D5",
+        "color7": "#ece2e0",
+        "color8": "#a59e9c",
+        "color9": "#71BBD9",
+        "color10": "#A698A6",
+        "color11": "#E897A7",
+        "color12": "#DEA1A9",
+        "color13": "#B7BBCD",
+        "color14": "#DAD5D5",
+        "color15": "#ece2e0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/zerotwo-F405F.png",
+    "alpha": "100",
+    "special": {
+        "background": "#151419",
+        "foreground": "#ebe4e2",
+        "cursor": "#ebe4e2"
+    },
+    "colors": {
+        "color0": "#151419",
+        "color1": "#507299",
+        "color2": "#2C94C0",
+        "color3": "#528DC5",
+        "color4": "#709BC9",
+        "color5": "#B9A9AF",
+        "color6": "#F0CFCC",
+        "color7": "#ebe4e2",
+        "color8": "#a49f9e",
+        "color9": "#507299",
+        "color10": "#2C94C0",
+        "color11": "#528DC5",
+        "color12": "#709BC9",
+        "color13": "#B9A9AF",
+        "color14": "#F0CFCC",
+        "color15": "#ebe4e2"
+    }
+}

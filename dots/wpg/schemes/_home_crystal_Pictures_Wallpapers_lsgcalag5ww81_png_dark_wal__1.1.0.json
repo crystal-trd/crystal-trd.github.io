@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/lsgcalag5ww81.png",
+    "alpha": "100",
+    "special": {
+        "background": "#16100d",
+        "foreground": "#eeddcc",
+        "cursor": "#eeddcc"
+    },
+    "colors": {
+        "color0": "#16100d",
+        "color1": "#AA916A",
+        "color2": "#E09E6E",
+        "color3": "#EABD6F",
+        "color4": "#74888B",
+        "color5": "#B3A89B",
+        "color6": "#DEB197",
+        "color7": "#eeddcc",
+        "color8": "#a69a8e",
+        "color9": "#AA916A",
+        "color10": "#E09E6E",
+        "color11": "#EABD6F",
+        "color12": "#74888B",
+        "color13": "#B3A89B",
+        "color14": "#DEB197",
+        "color15": "#eeddcc"
+    }
+}

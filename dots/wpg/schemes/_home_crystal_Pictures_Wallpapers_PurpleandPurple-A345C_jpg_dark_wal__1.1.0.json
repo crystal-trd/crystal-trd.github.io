@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/PurpleandPurple-A345C.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2b1840",
+        "foreground": "#f0d9e4",
+        "cursor": "#f0d9e4"
+    },
+    "colors": {
+        "color0": "#2b1840",
+        "color1": "#BF80AC",
+        "color2": "#DC96BA",
+        "color3": "#E19BBE",
+        "color4": "#DEA1BF",
+        "color5": "#E09FC0",
+        "color6": "#E7B0CB",
+        "color7": "#f0d9e4",
+        "color8": "#a8979f",
+        "color9": "#BF80AC",
+        "color10": "#DC96BA",
+        "color11": "#E19BBE",
+        "color12": "#DEA1BF",
+        "color13": "#E09FC0",
+        "color14": "#E7B0CB",
+        "color15": "#f0d9e4"
+    }
+}

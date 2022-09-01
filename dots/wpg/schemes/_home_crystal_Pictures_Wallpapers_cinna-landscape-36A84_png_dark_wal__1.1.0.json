@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/cinna-landscape-36A84.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#e1e1df",
+        "cursor": "#e1e1df"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#7A7976",
+        "color2": "#807F7B",
+        "color3": "#7F807B",
+        "color4": "#81817E",
+        "color5": "#92918F",
+        "color6": "#C3C2BE",
+        "color7": "#e1e1df",
+        "color8": "#9d9d9c",
+        "color9": "#7A7976",
+        "color10": "#807F7B",
+        "color11": "#7F807B",
+        "color12": "#81817E",
+        "color13": "#92918F",
+        "color14": "#C3C2BE",
+        "color15": "#e1e1df"
+    }
+}

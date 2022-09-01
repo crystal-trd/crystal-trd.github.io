@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/w17Pbut.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0404",
+        "foreground": "#d6bcb1",
+        "cursor": "#d6bcb1"
+    },
+    "colors": {
+        "color0": "#0e0404",
+        "color1": "#900806",
+        "color2": "#A81611",
+        "color3": "#DC160D",
+        "color4": "#E5160D",
+        "color5": "#D92D21",
+        "color6": "#AC594D",
+        "color7": "#d6bcb1",
+        "color8": "#95837b",
+        "color9": "#900806",
+        "color10": "#A81611",
+        "color11": "#DC160D",
+        "color12": "#E5160D",
+        "color13": "#D92D21",
+        "color14": "#AC594D",
+        "color15": "#d6bcb1"
+    }
+}

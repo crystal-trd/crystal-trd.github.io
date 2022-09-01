@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/crystal/Pictures/Wallpapers/yosemite-lowpoly.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181a20",
+        "foreground": "#efdac1",
+        "cursor": "#efdac1"
+    },
+    "colors": {
+        "color0": "#181a20",
+        "color1": "#EFAC7C",
+        "color2": "#777786",
+        "color3": "#A27693",
+        "color4": "#79839A",
+        "color5": "#B3A69E",
+        "color6": "#E5A593",
+        "color7": "#efdac1",
+        "color8": "#a79887",
+        "color9": "#EFAC7C",
+        "color10": "#777786",
+        "color11": "#A27693",
+        "color12": "#79839A",
+        "color13": "#B3A69E",
+        "color14": "#E5A593",
+        "color15": "#efdac1"
+    }
+}
